@@ -1,0 +1,32 @@
+{{ define "main" }}
+<article>
+  <div class="model-header">
+    {{ with .Params.question_hook }}<p class="question-hook">"{{ . }}"</p>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.one_liner }}<p class="one-liner">{{ . }}</p>{{ end }}
+    <div class="model-meta">
+      {{ with .Params.difficulty }}<span class="card-tag">{{ . }}</span>{{ end }}
+      {{ with .Params.disciplines }}{{ range . }}<span class="card-tag card-tag--teal">{{ . }}</span>{{ end }}{{ end }}
+    </div>
+  </div>
+
+  <div class="model-content">
+    {{ .Content }}
+
+    {{ with .Params.related_models }}
+    <h2>Related models</h2>
+    <div class="related-models">
+      {{ range . }}
+        {{ $model := $.Site.GetPage (printf "/models/%s" .) }}
+        {{ if $model }}
+        <a href="{{ $model.Permalink }}" class="card">
+          <h3>{{ $model.Title }}</h3>
+          <p>{{ $model.Params.one_liner }}</p>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

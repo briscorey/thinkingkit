@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="model-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.description }}<p class="one-liner">{{ . }}</p>{{ end }}
+</div>
+<section class="section">
+  <div class="wrapper">
+    {{ .Content }}
+    <div class="card-grid">
+      {{ range .Pages }}
+      <a href="{{ .Permalink }}" class="card animate-in">
+        <div class="card-icon">{{ with .Params.icon }}{{ . }}{{ else }}◆{{ end }}</div>
+        <h3>{{ .Title }}</h3>
+        <p>{{ with .Params.one_liner }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}</p>
+        <div class="card-meta">
+          {{ with .Params.difficulty }}<span class="card-tag">{{ . }}</span>{{ end }}
+          {{ with .Params.disciplines }}{{ range first 1 . }}<span class="card-tag card-tag--teal">{{ . }}</span>{{ end }}{{ end }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

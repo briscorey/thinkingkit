@@ -1,21 +1,145 @@
 {{ define "main" }}
-<div class="container">
-  <svg class="logo-mark" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <!-- 5 connected nodes -->
-    <line x1="50" y1="20" x2="25" y2="45" stroke="#f59e0b" stroke-width="2" opacity="0.6"/>
-    <line x1="50" y1="20" x2="75" y2="45" stroke="#f59e0b" stroke-width="2" opacity="0.6"/>
-    <line x1="25" y1="45" x2="35" y2="80" stroke="#f59e0b" stroke-width="2" opacity="0.6"/>
-    <line x1="75" y1="45" x2="65" y2="80" stroke="#f59e0b" stroke-width="2" opacity="0.6"/>
-    <line x1="35" y1="80" x2="65" y2="80" stroke="#f59e0b" stroke-width="2" opacity="0.6"/>
-    <line x1="25" y1="45" x2="75" y2="45" stroke="#f59e0b" stroke-width="1.5" opacity="0.3"/>
-    <circle cx="50" cy="20" r="6" fill="#f59e0b"/>
-    <circle cx="25" cy="45" r="6" fill="#f59e0b"/>
-    <circle cx="75" cy="45" r="6" fill="#f59e0b"/>
-    <circle cx="35" cy="80" r="6" fill="#f59e0b"/>
-    <circle cx="65" cy="80" r="6" fill="#f59e0b"/>
-  </svg>
-  <h1>ThinkingKit</h1>
-  <p class="tagline">Better tools for better thinking</p>
-  <p class="status">Coming soon</p>
-</div>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-content">
+    <svg class="logo-mark" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <line x1="50" y1="20" x2="25" y2="45" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
+      <line x1="50" y1="20" x2="75" y2="45" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
+      <line x1="25" y1="45" x2="35" y2="80" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
+      <line x1="75" y1="45" x2="65" y2="80" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
+      <line x1="35" y1="80" x2="65" y2="80" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
+      <line x1="25" y1="45" x2="75" y2="45" stroke="#f59e0b" stroke-width="1.5" opacity="0.3"/>
+      <circle cx="50" cy="20" r="5.5" fill="#f59e0b"/>
+      <circle cx="25" cy="45" r="5.5" fill="#f59e0b"/>
+      <circle cx="75" cy="45" r="5.5" fill="#f59e0b"/>
+      <circle cx="35" cy="80" r="5.5" fill="#f59e0b"/>
+      <circle cx="65" cy="80" r="5.5" fill="#f59e0b"/>
+    </svg>
+    <h1>Think better.<br>Decide <em>clearly</em>.</h1>
+    <p class="hero-sub">A free, interactive library of mental models, decision frameworks, and thinking tools. Learn the frameworks that the world's best thinkers use — then apply them to your own life.</p>
+    <div class="hero-cta">
+      <a href="/models/" class="btn btn-primary">Explore models</a>
+      <a href="/tools/" class="btn btn-secondary">Try the tools</a>
+    </div>
+  </div>
+</section>
+
+<!-- What is ThinkingKit -->
+<section class="section">
+  <div class="wrapper">
+    <div class="section-header animate-in">
+      <span class="label">The idea</span>
+      <h2>Your mind already has the hardware. This is the software upgrade.</h2>
+      <p>Mental models are thinking tools — repeatable frameworks that help you understand problems, avoid mistakes, and make better decisions. ThinkingKit gives you a library of the most powerful ones, with interactive tools to actually use them.</p>
+    </div>
+
+    <div class="feature-grid">
+      <div class="feature-item animate-in">
+        <div class="feature-number">01</div>
+        <h3>Learn the models</h3>
+        <p>Each model explained with visual diagrams, real-world examples, and a clear question hook — not academic jargon.</p>
+      </div>
+      <div class="feature-item animate-in">
+        <div class="feature-number">02</div>
+        <h3>Use the tools</h3>
+        <p>Interactive decision matrices, bias checks, and framework walkthroughs. Don't just read about thinking better — practice it.</p>
+      </div>
+      <div class="feature-item animate-in">
+        <div class="feature-number">03</div>
+        <h3>Build your latticework</h3>
+        <p>Track which models you've learned and applied. Over time, build a personal toolkit that compounds your judgment.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Featured Models -->
+<section class="section" style="background: var(--color-bg-elevated);">
+  <div class="wrapper">
+    <div class="section-header animate-in">
+      <span class="label">Mental models</span>
+      <h2>Start with the essentials</h2>
+      <p>These are the foundational frameworks. Master these first, and every decision gets sharper.</p>
+    </div>
+
+    <div class="card-grid">
+      {{ range first 6 (where .Site.RegularPages "Section" "models") }}
+      <a href="{{ .Permalink }}" class="card animate-in">
+        <div class="card-icon">{{ with .Params.icon }}{{ . }}{{ else }}◆{{ end }}</div>
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Params.one_liner }}</p>
+        <div class="card-meta">
+          {{ with .Params.difficulty }}<span class="card-tag">{{ . }}</span>{{ end }}
+          {{ with .Params.disciplines }}{{ range first 1 . }}<span class="card-tag card-tag--teal">{{ . }}</span>{{ end }}{{ end }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
+
+    <div class="text-center mt-xl animate-in">
+      <a href="/models/" class="btn btn-secondary">View all models →</a>
+    </div>
+  </div>
+</section>
+
+<!-- Interactive Tools Preview -->
+<section class="section">
+  <div class="wrapper">
+    <div class="section-header animate-in">
+      <span class="label">Interactive tools</span>
+      <h2>Don't just read — think</h2>
+      <p>Most mental model sites give you an encyclopedia. ThinkingKit gives you the tools to actually use what you learn.</p>
+    </div>
+
+    <div class="card-grid">
+      {{ range (where .Site.RegularPages "Section" "tools") }}
+      <a href="{{ .Permalink }}" class="card animate-in">
+        <div class="card-icon">{{ with .Params.icon }}{{ . }}{{ else }}⚡{{ end }}</div>
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Params.description }}</p>
+        {{ with .Params.time_estimate }}<div class="card-meta"><span class="card-tag card-tag--teal">{{ . }}</span></div>{{ end }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- Differentiators -->
+<section class="section" style="background: var(--color-bg-elevated);">
+  <div class="wrapper">
+    <div class="section-header animate-in">
+      <span class="label">Why ThinkingKit</span>
+      <h2>What makes this different</h2>
+    </div>
+
+    <div class="feature-grid">
+      <div class="feature-item animate-in">
+        <h3>Free. Forever.</h3>
+        <p>No paywalls, no premium tiers, no gated content. Every model, every tool, every resource — free and open.</p>
+      </div>
+      <div class="feature-item animate-in">
+        <h3>Interactive, not encyclopedic</h3>
+        <p>Other sites describe mental models. ThinkingKit lets you use them — with interactive tools embedded right where you need them.</p>
+      </div>
+      <div class="feature-item animate-in">
+        <h3>Visual explanations</h3>
+        <p>Every model includes a diagram or visual walkthrough. Complex ideas should be seen, not just read about.</p>
+      </div>
+      <div class="feature-item animate-in">
+        <h3>Find the right model</h3>
+        <p>Describe your situation, get matched to the frameworks that fit. No more scrolling through lists hoping something clicks.</p>
+      </div>
+      <div class="feature-item animate-in">
+        <h3>Multi-disciplinary</h3>
+        <p>Models drawn from physics, biology, economics, psychology, systems thinking, military strategy, and more.</p>
+      </div>
+      <div class="feature-item animate-in">
+        <h3>Actionable steps</h3>
+        <p>Every model page includes "how to use it" instructions and "when to use it" guidance — not just theory.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{ end }}

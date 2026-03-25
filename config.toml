@@ -1,10 +1,50 @@
 baseURL = "https://thinkingkit.org/"
 languageCode = "en-us"
 title = "ThinkingKit"
+enableRobotsTXT = true
+enableGitInfo = true
 
 [build]
   writeStats = false
 
 [params]
-  description = "Better tools for better thinking"
+  description = "Better tools for better thinking. A free, interactive library of mental models, decision frameworks, and thinking tools."
   author = "Corey Zocchi"
+  tagline = "Better tools for better thinking"
+
+[taxonomies]
+  discipline = "disciplines"
+  usecase = "usecases"
+  difficulty = "difficulties"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Models"
+    url = "/models/"
+    weight = 1
+  [[menu.main]]
+    name = "Tools"
+    url = "/tools/"
+    weight = 2
+  [[menu.main]]
+    name = "Learn"
+    url = "/learn/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
