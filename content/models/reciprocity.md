@@ -23,6 +23,14 @@ Robert Cialdini identified reciprocity as the first of his six principles of inf
 
 The model has two important variants. Direct reciprocity: you help me, I help you. Reciprocal concession: I make a large request you refuse, then make a smaller request — you're more likely to agree to the smaller request because you feel you should reciprocate my concession.
 
+## Case study: How the Hare Krishnas used flowers to raise millions
+
+In the 1970s, the Hare Krishna movement discovered an extraordinarily effective fundraising technique at airports. Before asking for a donation, a Krishna devotee would give the traveller a small gift — a flower, a book, or a pin. The gift was free. No strings attached.
+
+But the reciprocity norm — the deeply ingrained human compulsion to return favours — kicked in immediately. Travellers who received the gift donated at dramatically higher rates than those who were simply asked for money. Many tried to return the flower, but the Krishnas refused to take it back, keeping the reciprocity obligation active.
+
+Robert Cialdini documented this phenomenon in his research on influence. The flowers cost nearly nothing. The donations generated millions. The strategy worked not because people wanted the flowers, but because the act of receiving triggered an automatic, unconscious obligation to give something back. Reciprocity operates below conscious awareness and across every human culture ever studied.
+
 ## Real-world examples
 
 **Negotiations.** Starting with a higher ask and then conceding (anchoring + reciprocal concession) is one of the most effective negotiation techniques, precisely because the concession triggers a reciprocal urge to concede in return.

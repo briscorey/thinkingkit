@@ -30,6 +30,14 @@ Network effects create powerful feedback loops: more users → more value → mo
 
 There are several types. Direct network effects mean each user directly benefits from other users (phones, messaging apps). Indirect network effects mean users benefit from complementary goods that grow with the network (more iPhone users → more iOS apps → iPhone is more valuable). Data network effects mean more users generate more data, which improves the product for everyone (Google search, recommendation algorithms).
 
+## Case study: How Microsoft Windows dominated through application lock-in
+
+In the 1990s, Microsoft Windows wasn't technically superior to Apple's Macintosh or IBM's OS/2. But Windows had an indirect network effect that proved decisive: more Windows users meant more developers building Windows applications, which meant more users chose Windows because it had the most software, which attracted more developers.
+
+Apple's Macintosh was arguably better designed, and OS/2 was technically more advanced. But neither could overcome Windows' application ecosystem advantage. By the time Windows had 90% market share, the network effect was self-reinforcing — switching to a competitor meant giving up access to thousands of applications that only ran on Windows.
+
+The network effect didn't make Windows the best operating system. It made Windows the default operating system — and in a network effects market, the default wins.
+
 ## Real-world examples
 
 **Social media.** You use Instagram because your friends are there. Your friends are there because their friends are there. Nobody chose Instagram because it was the "best" photo app — they chose it because it's where the network is.

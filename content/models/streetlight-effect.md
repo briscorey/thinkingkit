@@ -25,6 +25,14 @@ An old joke captures this bias perfectly: A man is searching for his keys under 
 
 The streetlight effect describes our tendency to focus investigation where it's easiest to look, rather than where the answer is most likely to be found. We measure what's measurable, study what's accessible, and solve the problems we know how to solve — all while the actual answers may lie in harder-to-reach places.
 
+## Case study: How the drunk searching for keys inspired a scientific principle
+
+The original "streetlight effect" parable became a formal concept in research methodology when Abraham Kaplan formalised it in 1964 as "the principle of the drunkard's search." He observed that researchers systematically study phenomena that are easy to measure rather than phenomena that matter most.
+
+David Freedman extended the critique to medical research: scientists study diseases prevalent in wealthy countries (where research funding exists) rather than diseases that kill the most people globally. They use laboratory mice (convenient) to model human diseases (complex). They measure biomarkers (quantifiable) rather than quality of life (meaningful).
+
+The result: medical knowledge is systematically biased toward the measurable, the fundable, and the convenient — not the most important. The light is best where the money is, not where the answers are.
+
 ## Real-world examples
 
 **Business metrics.** Companies measure what's easy to measure (clicks, page views, revenue) rather than what matters most (customer satisfaction, long-term loyalty, employee wellbeing). The dashboard becomes the territory.

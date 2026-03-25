@@ -28,6 +28,16 @@ The critical element is falsifiability — you must be able to specify what evid
 
 Applied to everyday thinking, this means treating your beliefs as hypotheses rather than conclusions, actively seeking disconfirming evidence, and updating your views when the evidence demands it.
 
+## Case study: How Ignaz Semmelweis proved handwashing saved lives — and was destroyed for it
+
+In 1847, Hungarian physician Ignaz Semmelweis noticed that maternity patients attended by doctors had a death rate five times higher than those attended by midwives. He hypothesised that doctors were carrying "cadaverous particles" from autopsies to the delivery ward on their hands.
+
+He tested his hypothesis: he required all doctors to wash their hands in chlorinated lime solution before examining patients. The death rate dropped from 18% to 1% within months. The evidence was overwhelming.
+
+But the medical establishment rejected his findings. The germ theory of disease hadn't been established yet, and doctors were insulted by the implication that they were killing their patients. Semmelweis was dismissed from his position and eventually committed to an asylum, where he died. Decades later, Louis Pasteur and Joseph Lister vindicated him completely.
+
+Semmelweis applied the scientific method perfectly: hypothesis, test, observation, conclusion. The method worked. The scientific community didn't.
+
 ## Real-world examples
 
 **Business decisions.** Instead of "our customers want feature X" (belief), reframe as: "If we build feature X, usage will increase by 20% within 30 days" (testable hypothesis). Build it. Measure. Update.

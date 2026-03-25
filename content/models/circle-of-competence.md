@@ -27,6 +27,14 @@ Warren Buffett and Charlie Munger argue that the size of your circle of competen
 
 The model works on three levels. First, identify what you actually know from direct experience and deep study — not what you've read headlines about or heard opinions on. Second, be ruthlessly honest about the boundary. The most dangerous zone is the area just outside your competence, where you know enough to feel confident but not enough to be right. Third, when operating outside your circle, either invest the time to genuinely expand it or find someone whose circle covers what yours doesn't.
 
+## Case study: How Warren Buffett avoided the dot-com crash
+
+In 1999, at the height of the dot-com bubble, Warren Buffett was relentlessly criticised for refusing to invest in technology stocks. Berkshire Hathaway underperformed the S&P 500 for two consecutive years. Financial media openly questioned whether Buffett had lost his touch.
+
+Buffett's response was simple: "I don't understand these businesses." He couldn't evaluate the earnings potential of internet companies, couldn't predict which business models would survive, and didn't know enough to distinguish the real ones from the frauds. Technology was outside his circle of competence.
+
+When the bubble burst in 2000-2002, the Nasdaq lost 78% of its value. Buffett's portfolio barely flinched. He went on to make some of the best investments of his career in the wreckage, buying companies he understood deeply at fire-sale prices. Knowing what he didn't know protected him from the biggest wealth destruction event in a generation.
+
 ## Real-world examples
 
 **Investing.** Buffett famously avoided technology stocks for decades — not because he thought tech was bad, but because it was outside his circle. He stuck to businesses he understood deeply (insurance, consumer brands, railroads) and outperformed most tech investors over the long run.

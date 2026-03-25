@@ -28,6 +28,14 @@ Nassim Taleb describes this as one of the most common failures of sophisticated 
 
 The antidote is cross-domain thinking — the deliberate practice of asking "where else does this pattern appear?"
 
+## Case study: How doctors who understood statistics couldn't apply them to patients
+
+Gerd Gigerenzer, a researcher studying risk literacy, discovered a startling pattern: doctors who scored well on statistics tests in an abstract context couldn't apply the same reasoning to medical scenarios. In one study, he asked doctors to evaluate a diagnostic test with a 5% false positive rate applied to a population with 1% disease prevalence.
+
+When framed as a statistics problem, many doctors could work it out. When framed as "your patient tested positive," most doctors dramatically overestimated the probability of disease — giving the same wrong answer they would have avoided on a math test.
+
+The statistical reasoning didn't transfer across the domain boundary. The doctors had the knowledge. They couldn't apply it in context. This is domain dependence: understanding a principle in one field while failing to recognise it in another, even when the underlying structure is identical.
+
 ## Real-world examples
 
 **Evolution and business.** Natural selection and market competition follow the same dynamics (variation, selection, retention), yet biology professors rarely apply evolutionary thinking to their department's strategy, and business strategists rarely study ecology.

@@ -57,6 +57,14 @@ Most real-world situations are shaped by multiple feedback loops operating simul
 </svg>
 </div>
 
+## Case study: How a thermostat failure melted down Three Mile Island
+
+On March 28, 1979, a pressure valve in the Three Mile Island nuclear reactor stuck open, allowing coolant to drain from the reactor core. This was a mechanical failure — but the true disaster came from a feedback loop failure in the control room.
+
+The operators had an indicator light showing the valve's electrical signal — which said "closed." But the light showed the signal sent to the valve, not the valve's actual position. The valve was open. The indicator said closed. The operators reduced emergency cooling because their instruments told them the system had too much coolant, when in fact it had too little.
+
+A negative feedback loop (temperature rises → add coolant → temperature drops) was supposed to keep the reactor stable. But faulty instrumentation turned it into a positive feedback loop (temperature rises → operators reduce coolant because indicators show excess → temperature rises more). Understanding which loops you're actually in — not which loops you think you're in — is the difference between stability and catastrophe.
+
 ## Real-world examples
 
 **Social media.** Reinforcing loop: more engagement → algorithm shows your content to more people → more engagement. This creates viral content and addictive usage patterns. Balancing loop: too much screen time → feeling bad → using the phone less. When the reinforcing loop is stronger than the balancing loop, you get addiction.

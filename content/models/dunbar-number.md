@@ -27,6 +27,14 @@ Anthropologist Robin Dunbar found that primates with larger neocortices maintain
 
 Dunbar's layers are concentric: about 5 intimate relationships (your closest support network), 15 close friends, 50 good friends, 150 meaningful contacts, 500 acquaintances, and 1,500 people you can recognise. Each layer requires progressively less emotional investment.
 
+## Case study: How W.L. Gore kept innovation alive by splitting factories at 150 employees
+
+W.L. Gore & Associates — makers of Gore-Tex — discovered through experience that when a factory exceeded about 150 employees, communication broke down, innovation slowed, and bureaucracy appeared. Founder Bill Gore noticed that below 150, everyone knew everyone else. Above it, cliques formed, informal communication failed, and people started needing formal processes to coordinate.
+
+Gore's solution was structural: when a facility approached 150 people, the company would build a new factory nearby and split the workforce. Each factory maintained the small-community dynamics that enabled Gore's famously flat, innovative culture.
+
+The company has over 12,000 employees but operates through dozens of small plants. By respecting the cognitive limit that Dunbar identified, Gore maintained startup-like innovation at industrial scale for decades.
+
 ## Real-world examples
 
 **Company growth.** Many organisations hit a crisis around 150 employees. Below that, informal culture and direct relationships hold things together. Above it, you need formal processes, middle management, and explicit communication channels. Companies that don't adapt to this transition often fragment.

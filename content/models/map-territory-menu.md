@@ -26,6 +26,14 @@ Nassim Taleb's "Skin in the Game" principle states that people make better decis
 
 The principle has four dimensions. First, symmetry: people who get the upside should also bear the downside. Second, filtering: systems where participants have skin in the game naturally eliminate incompetence over time. Third, trust: you can trust someone's advice more when they bear a cost for being wrong. Fourth, ethics: it's morally wrong to transfer risk to others while keeping the reward.
 
+## Case study: How Michael Burry bet against the housing market when his brokers said it was safe
+
+In 2005, hedge fund manager Michael Burry told his brokers at Goldman Sachs and Deutsche Bank that he wanted to bet against subprime mortgage bonds. The brokers thought he was insane — their models showed housing was safe. But the brokers had no skin in the game. They earned fees regardless of whether the bonds performed.
+
+Burry, by contrast, was investing his own fund's capital. If he was wrong, he personally lost money and his career. He had skin in the game. This asymmetry meant Burry spent months reading individual mortgage loan documents — something no broker had bothered to do — and discovered that the underlying loans were far riskier than the models suggested.
+
+When the housing market collapsed in 2007-2008, Burry's fund earned $700 million. The brokers who told him he was wrong faced no personal consequences. As Taleb would predict, the person with skin in the game made the better assessment.
+
 ## Real-world examples
 
 **Financial advisors.** Does your financial advisor invest their own money using the same strategy they recommend to you? If not, their skin isn't in the game. Their incentive is to maximise fees, not your returns.

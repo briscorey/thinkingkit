@@ -28,6 +28,14 @@ In engineering, redundancy is a design principle: critical systems have backup p
 
 The cost of redundancy is efficiency. Carrying spare capacity looks wasteful when nothing is going wrong. But systems optimised purely for efficiency are fragile — the first shock breaks them.
 
+## Case study: How Apollo 13's redundant systems saved three astronauts
+
+Apollo 13's primary oxygen tank exploded on April 13, 1970. In a non-redundant system, this would have been immediately fatal. But NASA had built redundancy into every critical system: two oxygen tanks, two hydrogen tanks, backup power, and a redundant spacecraft (the Lunar Module) that could serve as a lifeboat.
+
+The explosion destroyed both oxygen tanks in the Service Module — beyond what even the redundancy was designed for. But the Lunar Module's independent life support system, originally designed to sustain two astronauts on the Moon for 45 hours, was repurposed to sustain three astronauts for 90 hours. The redundancy wasn't perfectly matched to the failure — but it provided enough slack to improvise a solution.
+
+The mission that could have killed three astronauts instead became NASA's finest hour, precisely because redundancy bought time to solve problems that no one had anticipated.
+
 ## Real-world examples
 
 **Career.** Having only one income stream and one employable skill is zero redundancy. If that job disappears, you're exposed. Multiple income streams and transferable skills create redundancy.

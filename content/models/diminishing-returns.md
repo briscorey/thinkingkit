@@ -29,6 +29,14 @@ This is one of the most fundamental patterns in economics, biology, and daily li
 
 The practical implication: know when to stop. Once you've captured the bulk of the returns, further investment produces diminishing value. That effort is better redirected to something still in the steep part of its returns curve.
 
+## Case study: How Frederick Taylor discovered the optimal rest period for steelworkers
+
+In 1898, Frederick Taylor conducted time-and-motion studies at Bethlehem Steel. Workers loading pig iron onto railcars could load 12.5 tons per day working continuously. Taylor hypothesised that with optimised rest periods, output could increase.
+
+He experimented systematically: work intervals of 26 minutes, 20 minutes, 15 minutes, each followed by rest. He found that workers given enforced rest periods — working only 57% of the day — loaded 47.5 tons per day, nearly four times the continuous-work output. Beyond a certain work duration, each additional minute of labour produced less output and more fatigue, eventually pushing total output down.
+
+The lesson generalised far beyond steel: in any domain involving effort, there's a point of diminishing returns where additional input produces less additional output — and pushing further actually reduces total performance.
+
 ## Real-world examples
 
 **Exercise.** Going from zero to three workouts per week produces enormous health benefits. Going from three to six adds marginal improvement. Going from six to twelve risks overtraining — negative returns.

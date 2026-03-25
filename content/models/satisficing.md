@@ -28,6 +28,14 @@ Research by Barry Schwartz and others shows that maximisers, despite spending mo
 
 The strategy works best when the cost of continued searching exceeds the marginal improvement of finding a slightly better option — which is most of the time.
 
+## Case study: How President Eisenhower chose his D-Day strategy by satisficing
+
+When planning the Normandy invasion, Eisenhower didn't search for the perfect landing site. He needed a beach that met specific criteria: within fighter aircraft range of England, sheltered enough for artificial harbours, wide enough for massive force deployment, and not the most obvious choice (to maintain surprise).
+
+Several sites met these criteria. Eisenhower didn't spend months comparing every possible beach on the French coast to find the theoretical optimum. He identified the criteria, found the options that satisfied them, evaluated the top candidates briefly, and committed. The decision was made in weeks, not months.
+
+Had Eisenhower been a maximiser — exhaustively analysing every possible landing site for marginal advantages — the invasion might have been delayed past the narrow weather window. Satisficing meant the decision was good enough and timely enough to succeed.
+
 ## Real-world examples
 
 **Hiring.** Interviewing 50 candidates to find the "perfect" hire often produces worse outcomes than hiring the third candidate who meets all your criteria, then investing in their development.

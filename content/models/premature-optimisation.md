@@ -29,6 +29,14 @@ The pattern: you spend weeks polishing a feature, process, or plan to peak effic
 
 The antidote: validate first, optimise later. Build the roughest version that tests your assumption. If the assumption holds, then optimise. If it doesn't, you've saved all the effort you would have wasted polishing something doomed to be discarded.
 
+## Case study: How Google launched with a deliberately ugly homepage
+
+In 1998, Google's homepage was almost comically minimal: a logo, a text box, two buttons, and nothing else. Larry Page and Sergey Brin didn't spend time on visual design, complex navigation, or feature-rich interfaces. They hadn't validated that a search engine could be commercially viable — optimising the interface before proving the concept would have been premature.
+
+Their competitors — AltaVista, Yahoo, Lycos — had elaborate, feature-rich homepages with news, weather, email, shopping, and dozens of links. These companies were prematurely optimising the portal experience rather than validating what users actually wanted.
+
+Google's minimal homepage wasn't lazy design. It was correct prioritisation: prove the core search technology works first, optimise the experience later. The deliberate ugliness was itself a strategic choice.
+
 ## Real-world examples
 
 **Product development.** Spending six months building a beautiful, scalable app for an idea nobody has validated is premature optimisation. Build a landing page first. See if anyone signs up.

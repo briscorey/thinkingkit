@@ -20,6 +20,14 @@ Confirmation bias is the tendency to search for, interpret, favour, and recall i
 
 The bias is strongest when the topic is emotionally charged or tied to your identity. Political beliefs, career choices, and personal relationships are the domains where confirmation bias does the most damage — precisely because they're the domains where accurate thinking matters most.
 
+## Case study: How the CIA failed to predict the fall of the Soviet Union
+
+Throughout the 1980s, CIA analysts consistently overestimated the strength of the Soviet economy and military. Internal reports described a robust, growing adversary — even as the Soviet Union was collapsing from within. Declassified assessments show that evidence of economic decay, food shortages, and public discontent was available but systematically downweighted.
+
+The reason was structural confirmation bias. The CIA's institutional purpose was to monitor a dangerous adversary. Analysts who reported Soviet weakness were seen as naive or dovish. Analysts who reported Soviet strength were seen as serious and rigorous. The organisation's identity and budget depended on the Soviet threat being real and growing.
+
+Evidence that confirmed the threat was amplified. Evidence that contradicted it was explained away. When the Berlin Wall fell in 1989, the CIA was genuinely surprised — not because the evidence wasn't there, but because their interpretive framework filtered it out.
+
 ## Real-world examples
 
 **Hiring.** An interviewer who forms a positive first impression spends the rest of the interview unconsciously looking for evidence of competence and explaining away red flags. The reverse happens with a negative first impression.

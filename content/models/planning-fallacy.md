@@ -29,6 +29,14 @@ The mechanism: when planning, we focus on the specific scenario we envision (the
 
 The antidote: use the outside view. Instead of estimating from your plan, look at how long similar projects actually took in the past. That historical base rate is almost always a better predictor than your current optimistic plan.
 
+## Case study: How the Sydney Opera House took 14x its budget and 10 extra years
+
+The Sydney Opera House was estimated to cost A$7 million and be completed by 1963. It actually cost A$102 million and was completed in 1973. The original architects hadn't solved the engineering challenges of the iconic sail roof before committing to the design.
+
+But the truly remarkable thing is that this magnitude of overrun isn't unusual. Bent Flyvbjerg's research on megaprojects shows that 9 out of 10 projects exceed their budget, and the average cost overrun for large construction projects is 45%. IT projects average 27% over budget and 55% over schedule.
+
+The planning fallacy isn't a rare failure. It's the default. The question isn't whether your estimate is too optimistic — it almost certainly is — but by how much.
+
 ## Real-world examples
 
 **Software development.** Developers estimate a feature will take two weeks. It takes six. This isn't an anomaly — it's the pattern. Studies show software projects average 2-3x their initial estimates.

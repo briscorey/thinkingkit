@@ -28,6 +28,14 @@ Eliyahu Goldratt's Theory of Constraints states that every system has exactly on
 
 The process follows five steps. First, identify the constraint — the step where work piles up. Second, exploit the constraint — get maximum output from it with existing resources. Third, subordinate everything else to the constraint — adjust all other processes to support the bottleneck. Fourth, elevate the constraint — invest to increase its capacity. Fifth, repeat — once you've broken this bottleneck, a new one will emerge.
 
+## Case study: How Eli Goldratt transformed a failing factory with one insight
+
+In his novel *The Goal*, Eli Goldratt tells the thinly fictionalised story of a factory manager about to lose his plant. Every department was optimising locally — purchasing bought in bulk for volume discounts, manufacturing ran the fastest machines at maximum speed, assembly worked overtime.
+
+But the factory wasn't shipping on time. Goldratt identified that one old machine — the NCX-10 — was the bottleneck. Everything else in the factory was producing faster than this machine could process, creating mountains of inventory that sat waiting. Optimising the non-bottleneck machines actually made things worse — it produced more inventory faster, clogging the system further.
+
+The fix: run the NCX-10 continuously (during lunch breaks, shift changes), place quality inspection before it (so it never wasted time processing defective parts), and slow down upstream machines to match its pace. Factory throughput increased 20% without any capital investment. The lesson: improving a non-constraint is a mirage of progress.
+
 ## Real-world examples
 
 **Software development.** If the bottleneck is code review (two reviewers for twenty developers), hiring more developers makes things worse, not better. The fix is to increase review capacity.

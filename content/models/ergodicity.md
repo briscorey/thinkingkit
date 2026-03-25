@@ -30,6 +30,14 @@ But many real-world situations are non-ergodic. Russian roulette has a positive 
 
 This distinction, championed by Ole Peters and amplified by Nassim Taleb, has profound implications: in non-ergodic systems, you cannot use the ensemble average (group average) to make decisions for an individual acting over time.
 
+## Case study: How the Kelly Criterion saved gamblers from ruin
+
+In the 1960s, mathematician Ed Thorp used card counting to gain a small edge in blackjack. But having an edge wasn't enough — he needed to know how much to bet. Betting too little wasted the edge. Betting too much risked total ruin from an unlucky streak.
+
+The answer was the Kelly Criterion, derived from information theorist John Kelly: bet a fraction of your bankroll proportional to your edge. With a 2% edge, bet roughly 2% of your bankroll. This strategy maximises long-term wealth growth while ensuring you never go broke.
+
+The Kelly Criterion works because gambling (and investing) is non-ergodic. The ensemble average (expected value across many parallel bets) is positive. But the time average (one gambler over many sequential bets) leads to ruin if bets are too large, because a single catastrophic loss eliminates you. The Kelly Criterion respects the non-ergodic nature of sequential risk-taking.
+
 ## Real-world examples
 
 **Investing with leverage.** A leveraged portfolio might have a higher expected return than an unleveraged one. But a single bad year can wipe out the leveraged portfolio entirely. The ensemble average (across all possible market states) looks great. The time average (for one investor over many years) often leads to ruin.

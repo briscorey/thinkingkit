@@ -30,6 +30,14 @@ Nassim Taleb demonstrates this mathematically: if you check a volatile investmen
 
 The principle applies to news, social media, metrics, feedback, market data, and any information stream. More data doesn't always mean more signal. Often it means proportionally more noise.
 
+## Case study: How Nate Silver distinguished signal from noise in the 2012 election
+
+In the weeks before the 2012 U.S. presidential election, daily tracking polls swung wildly — Romney up 3 points, Obama up 2, a tied race, a Romney lead. Pundits reacted to each day's poll as if it were significant news. The narrative shifted daily.
+
+Nate Silver's FiveThirtyEight model cut through the noise. Instead of reacting to individual polls, Silver aggregated hundreds of polls, weighted them by methodology quality and sample size, and modelled the probability distribution of outcomes. His model showed Obama with a consistent 70-80% probability of winning — a signal that was invisible in the daily noise.
+
+Silver correctly predicted the winner of all 50 states. The pundits who reacted to daily noise predicted a "toss-up." The difference wasn't better information — it was better filtering of signal from noise.
+
 ## Real-world examples
 
 **News.** Daily news is almost entirely noise. Very little of what's reported today will matter in a year. Monthly or quarterly summaries contain far more signal per word.

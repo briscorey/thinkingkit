@@ -27,6 +27,12 @@ Laurence Peter observed that in hierarchical organisations, people are promoted 
 
 The mechanism is simple. A great salesperson gets promoted to sales manager. A great engineer gets promoted to engineering lead. But the skills that made them great at doing the work (selling, coding) are completely different from the skills needed to manage people doing the work. Being good at the previous job doesn't predict being good at the next one.
 
+## Case study: How Michael Scott became the most realistic character in television
+
+The fictional Michael Scott from *The Office* is the Peter Principle incarnate. He was promoted from top salesman to regional manager — a role requiring entirely different skills. As a salesman, he was charismatic and persuasive. As a manager, he was bumbling, inappropriate, and ineffective.
+
+What makes the character resonate so deeply is that nearly everyone has worked with a Michael Scott — a skilled individual contributor promoted to a management role they can't perform. The show's creators drew from real corporate experiences where brilliant engineers become terrible engineering managers, great teachers become poor administrators, and star salespeople become incompetent sales directors. The pattern is so universal that it became comedy.
+
 ## Real-world examples
 
 **Technical management.** The best programmer on the team gets promoted to lead the team. They struggle because management requires communication, delegation, and conflict resolution — skills orthogonal to coding excellence.

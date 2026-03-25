@@ -27,6 +27,14 @@ When something performs exceptionally well or badly, the next measurement is lik
 
 This creates one of the most common reasoning errors: mistaking regression to the mean for a causal effect. A sports team has a terrible season and fires the coach. Next season, they improve. Was it the new coach? Maybe — but regression to the mean alone would predict improvement after an unusually bad year.
 
+## Case study: How the 'Sports Illustrated cover jinx' is really just statistics
+
+For decades, athletes have feared the "Sports Illustrated cover jinx" — the belief that appearing on the magazine's cover leads to a subsequent decline in performance. The pattern is real: many athletes do perform worse after being featured. But the cause isn't the curse — it's regression to the mean.
+
+Athletes appear on the cover after exceptional performances — career highs, record-breaking streaks, extraordinary seasons. These peaks are, by definition, statistical outliers. The most likely subsequent performance isn't another peak — it's something closer to the player's long-run average. The "decline" would have happened regardless of the magazine cover.
+
+Daniel Kahneman uses this example to illustrate one of the most common reasoning errors: attributing a causal explanation (the "jinx") to a purely statistical phenomenon (regression to the mean).
+
 ## Real-world examples
 
 **"Sophomore slump."** An artist's debut album is exceptional. The second album is good but not as spectacular. Fans call it a disappointment. But the debut was an outlier — regression to the mean predicts a more average follow-up regardless of effort or talent.

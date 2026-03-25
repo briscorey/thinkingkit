@@ -27,6 +27,14 @@ Stephen Covey's Circle of Influence model distinguishes between things you can d
 
 Most people spend disproportionate time and emotional energy worrying about things outside their circle of influence. This is worse than unproductive — it's actively draining, because effort spent on uncontrollable things produces zero results while depleting the energy you could spend on things within your control.
 
+## Case study: How Viktor Frankl survived Auschwitz by focusing on what he could control
+
+Psychiatrist Viktor Frankl was imprisoned in Auschwitz and other Nazi concentration camps from 1942 to 1945. He lost his wife, his parents, and his brother. He was subjected to forced labour, starvation, and the constant threat of execution.
+
+Frankl couldn't control his captors, his conditions, or whether he would survive. But he observed that prisoners who maintained a sense of purpose — who found meaning in their suffering — survived at higher rates than those who didn't. Frankl focused entirely on what remained within his control: his attitude, his inner life, and his decision to find meaning even in the most horrific circumstances.
+
+After liberation, he wrote *Man's Search for Meaning*, which has sold over 16 million copies. His core insight: between stimulus and response, there is a space, and in that space lies our freedom to choose our response. That choice — the one thing no captor can take — is the ultimate circle of influence.
+
 ## Real-world examples
 
 **Career.** You can't control whether you get the promotion (outside your circle). You can control the quality of your work, the relationships you build, and how you prepare for the interview (inside your circle).

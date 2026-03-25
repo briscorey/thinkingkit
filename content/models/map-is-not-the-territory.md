@@ -29,6 +29,14 @@ The danger comes when we forget that our map has edges, gaps, and distortions. E
 
 The practice is simple but demanding: whenever you're making a decision based on a model, ask yourself what the model leaves out. Where are the edges of this map? What terrain might exist that the map doesn't show?
 
+## Case study: How Long-Term Capital Management destroyed itself with perfect models
+
+In 1994, a team including two Nobel Prize-winning economists founded Long-Term Capital Management, a hedge fund built on the most sophisticated mathematical models Wall Street had ever seen. Their models of bond price convergence were elegant, historically validated, and — for four years — spectacularly profitable. LTCM returned 21%, 43%, 41%, and 17% in consecutive years.
+
+Then, in August 1998, Russia defaulted on its government bonds. The models said this was essentially impossible — a multi-sigma event. But the models were maps, not territory. They couldn't capture the panic, the liquidity crisis, and the cascading failures that followed. LTCM lost $4.6 billion in less than four months and required a $3.6 billion bailout coordinated by the Federal Reserve to prevent a systemic financial collapse.
+
+The lesson wasn't that models are useless. It was that the people using them had confused the map for the territory, mistaking mathematical elegance for reality.
+
 ## Real-world examples
 
 **Financial models.** The 2008 financial crisis happened partly because bankers treated their risk models as reality. The models said mortgage-backed securities were safe. The territory — millions of real humans with variable ability to repay — was far more complex than the models captured.

@@ -20,6 +20,14 @@ David Ricardo's insight is counterintuitive: even if you're better than someone 
 
 If you can produce both analysis and administration better than your colleague, but you're 10x better at analysis and only 2x better at administration, your comparative advantage is in analysis. Every hour you spend on administration costs you high-value analytical output. You should delegate administration even though you'd do it better — because the opportunity cost of doing it yourself is too high.
 
+## Case study: How Portugal and England both benefited from specialisation
+
+David Ricardo's original 1817 example remains the clearest illustration. Portugal could produce both wine and cloth more efficiently than England — Portugal had an absolute advantage in both goods. Conventional wisdom said Portugal should produce everything itself.
+
+Ricardo showed otherwise. Portugal was relatively better at wine than cloth, while England was relatively less bad at cloth than wine. If Portugal specialised in wine and England specialised in cloth, then traded, both countries ended up with more of both goods than if each had produced everything independently.
+
+The insight extends far beyond trade. In any team, even if one person is better at everything, the team performs best when each person focuses on their area of greatest relative advantage. The best surgeon shouldn't also do the hospital's filing, even if they happen to be the fastest filer — their comparative advantage in surgery is too valuable to waste on admin.
+
 ## Real-world examples
 
 **Leadership.** A CEO who was promoted from engineering can probably still write better code than the junior developers. But every hour the CEO codes is an hour not spent on strategy, fundraising, or talent decisions — where their comparative advantage is enormous.

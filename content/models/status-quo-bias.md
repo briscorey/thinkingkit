@@ -24,6 +24,14 @@ Status quo bias is the preference for the current state of affairs. People tend 
 
 The practical effect: we stay in jobs longer than we should, keep subscriptions we don't use, hold investments past their optimal point, and resist organisational changes that would objectively improve things.
 
+## Case study: How default options tripled organ donation rates across Europe
+
+Eric Johnson and Daniel Goldstein's landmark study compared organ donation rates across European countries with similar cultures and healthcare systems. The results were striking: countries where citizens were organ donors by default (opt-out) had donation rates above 90%. Countries where citizens had to actively choose to donate (opt-in) had rates between 4% and 27%.
+
+The citizens of these countries had similar attitudes toward organ donation in surveys. The difference was entirely structural: the default option changed. In opt-out countries, the status quo was being a donor. In opt-in countries, the status quo was not being a donor. Most people simply never changed the default, regardless of which default they were given.
+
+This single finding — that the default option determines behaviour far more than preferences or values — has influenced policy design in retirement savings, energy consumption, privacy settings, and dozens of other domains.
+
 ## Real-world examples
 
 **Organ donation.** Countries with opt-out organ donation systems (where you're a donor unless you actively choose not to be) have donation rates above 90%. Countries with opt-in systems typically have rates below 20%. Same population, same decision — but the status quo is different.

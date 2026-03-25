@@ -25,6 +25,14 @@ The Devil's Advocate technique means deliberately arguing the opposing position 
 
 In practice, assign someone (or yourself) the explicit role of finding flaws. This works because social dynamics normally suppress dissent — people don't want to be the one who disagrees. The Devil's Advocate role gives them permission and obligation to push back.
 
+## Case study: How President Kennedy used the Devil's Advocate to prevent nuclear war
+
+After the disastrous Bay of Pigs invasion in 1961 — a plan approved by unanimous agreement among Kennedy's advisors — the President restructured his decision-making process. He had learned that unanimous agreement was a warning sign of groupthink, not good judgment.
+
+During the Cuban Missile Crisis in October 1962, Kennedy explicitly assigned his brother Robert and speechwriter Ted Sorensen to argue against the dominant position in every meeting, regardless of their personal views. When the military pushed for airstrikes, they argued for diplomacy. When diplomats proposed concessions, they argued for firmness.
+
+The result was a nuanced quarantine strategy that gave Khrushchev room to withdraw without humiliation. Kennedy later said the Bay of Pigs was the best thing that happened to him, because the failure taught him to institutionalise dissent. The Devil's Advocate process may have prevented nuclear war.
+
 ## Real-world examples
 
 **Strategy meetings.** Before committing to a product direction, one team member is assigned to make the strongest possible case against it. If the plan survives the attack, confidence is justified. If it doesn't, you've saved months of wasted effort.

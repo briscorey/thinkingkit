@@ -74,6 +74,14 @@ The practice is straightforward. For any decision, map out the immediate consequ
 </svg>
 </div>
 
+## Case study: How the Cobra Effect backfired on British India
+
+During British colonial rule in Delhi, the government was concerned about the number of venomous cobras in the city. The solution seemed obvious: offer a bounty for every dead cobra brought in. First-order thinking: people kill cobras, cobra population drops.
+
+What actually happened was second-order: enterprising residents began breeding cobras to collect the bounties. When the government discovered this and cancelled the program, the breeders released their now-worthless cobras into the streets. The cobra population ended up larger than before the program began.
+
+The British officials thought one step ahead. They needed to think two. Every incentive creates a response, and that response creates its own consequences.
+
 ## Real-world examples
 
 **Rent control.** First-order: tenants pay less rent — great. Second-order: landlords reduce maintenance because margins shrink, developers build fewer rental units because returns drop, and housing supply tightens, eventually making the housing crisis worse for everyone not currently in a controlled unit.

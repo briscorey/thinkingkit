@@ -27,6 +27,14 @@ Moral hazard occurs when someone takes more risk because they don't bear the ful
 
 The pattern appears whenever risk and consequences are separated. Employees spending company money are less careful than spending their own. Governments bailing out banks create moral hazard — banks take bigger risks knowing they'll be rescued if things go wrong.
 
+## Case study: How the 2008 bank bailouts created a precedent for reckless risk-taking
+
+When the U.S. government bailed out major banks during the 2008 financial crisis — saving firms like AIG, Citigroup, and Bank of America from the consequences of their risky lending — it solved the immediate crisis but created a massive moral hazard problem.
+
+The implicit message: if you're large enough, the government will rescue you from the consequences of excessive risk. This "too big to fail" guarantee meant that banks could capture enormous profits during good times while knowing that catastrophic losses would be socialised — paid for by taxpayers.
+
+By 2024, the largest banks were even larger than in 2008, and the concentration of risk had increased. The bailout prevented a depression but arguably made the next crisis more likely and more severe, because it removed the consequence that was supposed to constrain risk-taking.
+
 ## Real-world examples
 
 **Banking.** "Too big to fail" creates massive moral hazard. Banks that know they'll be bailed out take risks they'd never take with their own money. The profits are private; the catastrophic losses are socialised.

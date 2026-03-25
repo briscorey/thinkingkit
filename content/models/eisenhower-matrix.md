@@ -35,6 +35,14 @@ Dwight Eisenhower reportedly said: "What is important is seldom urgent and what 
 
 The insight: most people spend too much time in Quadrants 1 and 3, and not enough in Quadrant 2. Systematically shifting time toward Q2 work — before it becomes Q1 — is the highest-leverage productivity move available.
 
+## Case study: How Eisenhower planned D-Day by ruthless prioritisation
+
+As Supreme Allied Commander planning the invasion of Normandy, Dwight Eisenhower faced arguably the most complex logistical challenge in military history: coordinating 156,000 troops, 5,000 ships, 11,000 aircraft, and the military forces of multiple nations for a single day of action.
+
+The key to his leadership wasn't doing everything — it was relentlessly distinguishing the important from the merely urgent. Eisenhower delegated vast operational details to subordinates (urgent, not important for him personally) while personally focusing on the few decisions only he could make: the final go/no-go call based on weather, the allocation of forces between beaches, and the management of relationships between temperamental allied commanders.
+
+On June 5, 1944, despite terrible weather forecasts, Eisenhower made the decision to launch based on a narrow window his meteorologist identified. That single important-and-urgent decision — one he couldn't delegate — changed the course of the war.
+
 ## Real-world examples
 
 **Teaching.** Urgent: marking the pile of essays due tomorrow (Q1). Important but not urgent: redesigning the unit plan to be more effective next year (Q2). Urgent but not important: responding to the non-essential email chain (Q3). Neither: scrolling through a resource website without a specific goal (Q4).

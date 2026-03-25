@@ -27,6 +27,14 @@ Base rate neglect occurs when we focus on specific, vivid information about an i
 
 The classic example: if a disease affects 1 in 10,000 people and a test is 99% accurate, a positive result still means there's only about a 1% chance you actually have the disease. Most people intuitively estimate 99% — because they focus on the test accuracy and ignore the base rate.
 
+## Case study: How mammogram misinterpretation causes unnecessary panic
+
+A woman gets a mammogram. The test is 90% accurate. It comes back positive. Most people — including many doctors — estimate the probability of cancer at around 90%. The actual probability is roughly 9%.
+
+Why? The base rate of breast cancer in the screening population is about 1%. Out of 1,000 women screened, about 10 have cancer (the test correctly identifies 9 of them) and about 990 don't (the test incorrectly flags about 99 of them). So of the ~108 positive results, only 9 actually have cancer. The 90% test accuracy creates a 9% hit rate — because the base rate is so low.
+
+Gerd Gigerenzer demonstrated that when doctors are taught to think in natural frequencies rather than percentages, their accuracy improves dramatically. Base rate neglect isn't inevitable — it's a failure of representation.
+
 ## Real-world examples
 
 **Startup success.** Your friend's startup has a great team, a clever product, and good early traction. But the base rate for startups is brutal — roughly 90% fail. The specific details are compelling, but the general frequency matters enormously.

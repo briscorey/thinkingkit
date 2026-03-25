@@ -26,6 +26,14 @@ The Winner's Curse occurs in competitive situations — auctions, bidding wars, 
 
 The more bidders there are, the stronger the curse. With many competitors, the winning bid is increasingly likely to be an outlier on the high end of estimates.
 
+## Case study: How the winner's curse bankrupted oil companies in the 1970s
+
+In the 1970s, the U.S. government auctioned offshore oil drilling rights in the Gulf of Mexico. Dozens of oil companies bid on each tract, each using their own geological surveys to estimate the value of the oil beneath.
+
+Economists Capen, Clapp, and Campbell analysed the results and found a stark pattern: the companies that won the most auctions consistently lost money on those tracts. The winners had, on average, overestimated the oil reserves by 40-50%. With 20 companies bidding, the winner wasn't the most knowledgeable — it was the most overoptimistic.
+
+The study quantified the winner's curse precisely: the more bidders in an auction, the more the winning bid exceeds the true value. The oil companies eventually learned to systematically discount their estimates before bidding — subtracting a "winner's curse adjustment" from their geological valuations.
+
 ## Real-world examples
 
 **Corporate acquisitions.** Research consistently shows that acquiring companies tend to overpay for targets. The "winning" bid in a competitive acquisition often destroys shareholder value because the premium paid exceeds the actual synergies captured.

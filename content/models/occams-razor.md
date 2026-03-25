@@ -51,6 +51,14 @@ The razor doesn't say the simplest explanation is always right. It says the simp
 </svg>
 </div>
 
+## Case study: How Barry Marshall proved the medical establishment wrong about ulcers
+
+For decades, the medical consensus was that stomach ulcers were caused by stress, spicy food, and excess acid. The treatment industry was worth billions. The explanation was complex: psychological stress triggered hormonal cascades that increased acid production, which eroded the stomach lining.
+
+In 1982, Australian doctor Barry Marshall proposed a simpler explanation: ulcers were caused by a bacterium, Helicobacter pylori. The medical establishment dismissed him. His theory was too simple. Ulcers were clearly a complex psychosomatic condition.
+
+Unable to get ethical approval for human trials, Marshall drank a petri dish of H. pylori. He developed gastritis within days. He then cured himself with antibiotics. The simpler explanation — infection, not stress — was correct. Marshall won the Nobel Prize in 2005. The complex, sophisticated theory had been wrong. The simple one that fit the evidence was right.
+
 ## Real-world examples
 
 **Medical diagnosis.** A patient presents with a headache, fatigue, and mild fever. Complex explanation: a rare autoimmune condition affecting the brain. Simple explanation: they have the flu. A good doctor starts with the flu hypothesis and only escalates if the evidence demands it.

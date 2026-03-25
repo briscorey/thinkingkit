@@ -29,6 +29,12 @@ Tim Ferriss popularised this concept: for any desired outcome, there's a thresho
 
 This applies to exercise (the minimum stimulus needed for muscle growth), learning (the minimum study needed for retention), communication (the minimum words needed to convey your point), and virtually every domain where effort meets outcomes.
 
+## Case study: How Tim Ferriss tested *The 4-Hour Workweek* title with a $200 Google Ads experiment
+
+Before publishing his book, Tim Ferriss was debating between several titles. Rather than relying on instinct or publisher focus groups, he ran a Google Ads test. He created ads for each potential title and measured click-through rates. The winning title — *The 4-Hour Workweek* — was not his personal favourite but was the one people most wanted to click on.
+
+The total cost: approximately $200 and a weekend of work. The minimum effective dose of market research — a tiny experiment that provided more reliable signal than months of deliberation. The book went on to sell over 2 million copies. Ferriss didn't need comprehensive market analysis. He needed the smallest possible test that would reveal genuine demand.
+
 ## Real-world examples
 
 **Exercise.** Research suggests that 2-3 strength training sessions per week produce 80-90% of the muscle growth benefit of training 6 times per week. The extra sessions add effort but marginal returns.

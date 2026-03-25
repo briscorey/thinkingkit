@@ -28,6 +28,14 @@ Falsifiability is a filter for useful claims. "This medicine will cure your head
 
 Applied to everyday thinking, falsifiability means asking: "What evidence would change my mind?" If you can't answer that question, your belief might be functioning as dogma rather than a hypothesis.
 
+## Case study: How Karl Popper distinguished Einstein from Freud
+
+Karl Popper was struck by the contrast between Einstein's theory of relativity and Freud's psychoanalytic theory. Einstein made a specific, testable prediction: starlight passing near the Sun would be deflected by exactly 1.75 arcseconds. In 1919, Arthur Eddington's solar eclipse expedition measured the deflection and confirmed Einstein's prediction. Had the measurement disagreed, Einstein's theory would have been falsified.
+
+Freud's theories, Popper noted, could explain any observation after the fact. A patient's behaviour confirmed the theory. The opposite behaviour also confirmed the theory. There was no possible observation that could prove Freud wrong.
+
+This didn't necessarily mean Freud was wrong — it meant his theories weren't scientific in the same way Einstein's were. Popper used this contrast to establish falsifiability as the criterion separating science from non-science. A theory that can explain everything predicts nothing.
+
 ## Real-world examples
 
 **Business.** "Our brand is what differentiates us" is unfalsifiable as stated. "Customers who recognise our brand convert at 2x the rate of those who don't" is falsifiable — and much more useful.

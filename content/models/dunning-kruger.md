@@ -20,6 +20,14 @@ The Dunning-Kruger effect describes an asymmetry in self-assessment. When you kn
 
 This isn't about intelligence. It's about the relationship between competence and metacognition in any specific domain. A brilliant physicist can be Dunning-Kruger'd about nutrition. An expert chef can be Dunning-Kruger'd about investing.
 
+## Case study: How McArthur Wheeler robbed banks with lemon juice on his face
+
+In 1995, McArthur Wheeler robbed two Pittsburgh banks in broad daylight with no disguise. He was arrested the same evening after surveillance footage was broadcast on the news. When police showed him the footage, Wheeler was genuinely bewildered. "But I wore the juice," he said.
+
+Wheeler had rubbed lemon juice on his face before the robberies. He knew lemon juice could be used as invisible ink — writing becomes invisible until heated. He concluded, with complete confidence, that lemon juice on his face would make him invisible to cameras.
+
+This case inspired David Dunning and Justin Kruger's famous study. Wheeler wasn't stupid — he had a logical chain of reasoning. He simply lacked the knowledge to recognise that his reasoning was flawed. He was too incompetent to recognise his own incompetence. The people most likely to overestimate their abilities are those who lack the expertise needed to accurately assess their abilities.
+
 ## Real-world examples
 
 **New managers.** A first-time manager often feels confident about their leadership abilities — they've watched other managers for years, how hard can it be? After six months of actually managing, their confidence often drops sharply as they discover the hidden complexity of the role.

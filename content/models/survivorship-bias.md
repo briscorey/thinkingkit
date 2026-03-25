@@ -23,6 +23,14 @@ This is survivorship bias: concentrating on things that survived a selection pro
 
 We see success stories everywhere because failures are invisible. The successful entrepreneur is on the cover of magazines; the thousands who tried the same approach and failed are not. This creates a systematically distorted picture of what works.
 
+## Case study: How Abraham Wald saved Allied bombers by looking at the missing data
+
+During World War II, the U.S. military examined bombers returning from missions to determine where to add armour plating. The data showed heavy damage patterns on the fuselage and wings. The obvious conclusion: reinforce those areas.
+
+Mathematician Abraham Wald proposed the opposite. The planes they were examining were the ones that survived. The damage on these planes showed where a bomber could take hits and still fly home. The missing data — the planes that didn't return — would show damage in different places: the engines and cockpit.
+
+Wald argued that the military should armour the areas with no damage on returning planes, because hits there were what brought planes down. The military followed his recommendation. Wald didn't have better data. He had a better understanding of the data he had — specifically, what was missing from it.
+
 ## Real-world examples
 
 **Entrepreneurship.** "College dropouts who became billionaires" makes great headlines. But for every Gates or Zuckerberg, thousands of dropouts failed — they just don't get featured. The survival rate of the strategy is invisible.

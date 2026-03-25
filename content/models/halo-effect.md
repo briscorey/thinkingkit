@@ -25,6 +25,12 @@ The halo effect, identified by Edward Thorndike, occurs when a positive impressi
 
 The effect works in reverse too (the "horn effect"): a negative impression in one area biases perception of everything else. Someone who makes a bad first impression gets judged as less competent, even when their work quality is identical to someone who made a good first impression.
 
+## Case study: How the iPod's success made everyone believe Apple could do anything
+
+When Apple launched the iPod in 2001, its success created a halo so powerful that it transformed perception of everything Apple touched. Before the iPod, Apple was a niche computer company with less than 3% market share. After the iPod, analysts and consumers assumed Apple would succeed at anything it attempted.
+
+When Apple announced the iPhone in 2007, Microsoft CEO Steve Ballmer laughed publicly — the device had no keyboard, limited apps, and cost $500. But the iPod's halo effect meant consumers, investors, and media gave Apple the benefit of the doubt. The halo wasn't irrational — the iPod demonstrated real competence in consumer electronics — but it extended far beyond the evidence, creating a presumption of success that became self-fulfilling.
+
 ## Real-world examples
 
 **Hiring.** Candidates who are tall, attractive, or well-dressed consistently receive higher competence ratings — even when interviewers are specifically trained to evaluate only job-relevant skills.

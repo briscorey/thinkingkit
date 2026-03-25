@@ -22,6 +22,14 @@ This isn't just physics. Relationships require ongoing investment or they weaken
 
 The mental model: nothing stays good by default. Everything that matters requires ongoing energy to maintain. And the energy required to restore order is almost always greater than the energy required to maintain it.
 
+## Case study: How the Space Shuttle Challenger was destroyed by entropy
+
+On January 28, 1986, the Space Shuttle Challenger broke apart 73 seconds after launch, killing all seven crew members. The cause was the failure of an O-ring seal in one of the solid rocket boosters. The O-ring had degraded — lost its resilience — because the launch temperature was 36°F, well below the rubber's operating range.
+
+Engineers at Morton Thiokol, the O-ring manufacturer, had warned NASA the night before launch that cold temperatures could cause seal failure. But the decision-makers focused on the schedule, the political pressure, and the assumption that the system was robust. They didn't adequately account for the second law of thermodynamics operating at a granular level: materials degrade, seals lose flexibility, rubber stiffens in cold.
+
+Entropy — the tendency of ordered systems to degrade toward disorder — is constant and relentless. Every system, left unattended, deteriorates. The Challenger disaster was a catastrophic reminder that maintenance, inspection, and respect for physical degradation aren't optional — they're fighting a fundamental law of the universe.
+
 ## Real-world examples
 
 **Software.** Even code that isn't touched accumulates "entropy" — dependencies become outdated, APIs change, security vulnerabilities emerge. This is why technical debt grows even when no new features are added.

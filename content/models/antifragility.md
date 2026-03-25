@@ -31,6 +31,14 @@ The key insight is that fragility, robustness, and antifragility are properties 
 
 Practical antifragility strategies include the barbell approach (combine very safe positions with small, high-upside bets — avoid the "average" middle), via negativa (improve by removing downsides rather than adding features), optionality (create situations with limited downside and unlimited upside), and redundancy (over-provision so that stress reveals capacity rather than fragility).
 
+## Case study: How Nassim Taleb made $40 million from the 2008 crash
+
+While most investors were devastated by the 2008 financial crisis, Nassim Taleb's fund Empirica (and the related Universa fund managed by his colleague Mark Spitznagel) made enormous profits. Universa reportedly returned over 100% in October 2008 alone, when the S&P 500 dropped 17%.
+
+The strategy was a textbook barbell: the fund held the vast majority of capital in ultra-safe Treasury bills, and used a small percentage to buy far-out-of-the-money put options — bets that paid off massively only if markets crashed severely. In normal years, the options expired worthless, producing small, predictable losses. In crisis years, the options exploded in value.
+
+Taleb didn't predict the 2008 crisis. He didn't need to. He had structured his portfolio to benefit from extreme negative events without needing to know when they would occur. The system was antifragile — it gained from the very disorder that destroyed everyone else.
+
 ## Real-world examples
 
 **Career.** A fragile career depends on one employer, one skill, one industry. A robust career has savings and transferable skills. An antifragile career has multiple income streams, a broad network, and skills that become more valuable during disruption — like the consultant who thrives when companies face crises.

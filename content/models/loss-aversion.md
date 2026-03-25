@@ -21,6 +21,14 @@ Kahneman and Tversky's prospect theory demonstrated that humans don't evaluate o
 
 This asymmetry creates predictable decision errors. We hold losing investments too long (selling would crystallise the loss). We avoid beneficial risks (the potential loss looms larger than the potential gain). We overpay for insurance and warranties. We stick with the status quo even when change would be beneficial, because change involves potential losses.
 
+## Case study: How Kodak lost everything by trying to protect what it had
+
+In 1975, a Kodak engineer named Steven Sasson invented the digital camera. He presented it to Kodak's executives, who saw its potential but made a fateful decision: suppress the technology. Kodak's film business generated billions in annual profit. Digital photography threatened to cannibalise that revenue.
+
+Loss aversion drove the decision. The potential loss of the existing film business felt more threatening than the potential gain of leading the digital revolution. Kodak had the technology, the brand, the distribution network, and the engineering talent to dominate digital photography. But the pain of losing the current business outweighed the promise of building a new one.
+
+By 2012, Kodak filed for bankruptcy. The company that invented digital photography was destroyed by digital photography — not because it lacked the capability to adapt, but because loss aversion made the existing business feel more real and more valuable than the future one.
+
 ## Real-world examples
 
 **Investing.** The "disposition effect" — investors sell winners too early (to lock in gains) and hold losers too long (to avoid realising losses). This is loss aversion in action, and it systematically reduces portfolio returns.

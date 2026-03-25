@@ -29,6 +29,14 @@ Characteristics of wicked problems: there is no definitive formulation (the prob
 
 Climate change, poverty, education reform, and urban planning are classic wicked problems. So are many personal and organisational challenges: team culture, work-life balance, and relationship dynamics.
 
+## Case study: How the war on drugs failed because it treated a wicked problem as tame
+
+In 1971, President Nixon declared drug abuse "public enemy number one" and launched the War on Drugs. The approach treated addiction as a tame problem with a clear solution: restrict supply, punish users, and the problem goes away.
+
+Fifty years and over $1 trillion later, drug use rates are essentially unchanged. The intervention created new problems: mass incarceration (particularly affecting minority communities), the rise of powerful drug cartels, a fentanyl crisis more deadly than the problems the war was designed to solve, and the corruption of institutions from police departments to entire governments.
+
+Drug addiction is a wicked problem. It has no definitive formulation (is it a medical condition, a moral failing, a social phenomenon, an economic consequence?), no stopping rule, and every intervention changes the problem. The War on Drugs failed because it applied a tame-problem solution — enforcement — to a wicked-problem reality.
+
 ## Real-world examples
 
 **Education.** "How do we improve education?" is a wicked problem. Every proposed solution (more testing, less testing, more technology, smaller classes) changes the system in ways that create new problems. There's no objective measure of "solved."

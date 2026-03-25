@@ -23,6 +23,14 @@ This threshold dynamic appears in countless non-physics domains: social movement
 
 The practical implication: many valuable processes look like nothing is happening right up until the moment everything changes. If you quit before critical mass, you lose all the investment with none of the payoff.
 
+## Case study: How Facebook reached critical mass by starting at Harvard
+
+Mark Zuckerberg didn't launch Facebook to the entire internet. He launched it exclusively at Harvard in February 2004. Within 24 hours, 1,200 Harvard students had signed up — roughly 50% of the campus.
+
+This narrow launch was strategically critical. A social network is useless until enough of your actual friends are on it (critical mass). By limiting to one campus, Facebook could achieve critical mass quickly: within days, the majority of Harvard's social graph was connected. The network became immediately useful because your actual friends were there.
+
+Facebook then expanded university by university, achieving critical mass at each campus before moving to the next. Each school's network became self-sustaining before the next was added. By the time Facebook opened to the general public in 2006, it had 12 million highly engaged users and a proven pattern for achieving critical mass in new populations.
+
 ## Real-world examples
 
 **Social media platforms.** A social network with 100 users is useless. With 10,000 it's interesting. With 1 million the network effects make it hard to leave. The product didn't change — it crossed critical mass.

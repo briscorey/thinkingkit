@@ -19,6 +19,14 @@ Jeff Bezos used this framework to decide whether to leave his Wall Street job an
 
 The framework works because it cuts through the noise of short-term anxiety and reframes the decision in terms of what actually matters over a lifetime. Most people overweight the risk of failure in the short term and underweight the risk of regret in the long term.
 
+## Case study: How Jeff Bezos decided to start Amazon
+
+In 1994, Jeff Bezos was a 30-year-old Senior Vice President at D.E. Shaw, a quantitative hedge fund on Wall Street. He was well-paid, well-respected, and on track for a traditional finance career. When he saw that web usage was growing at 2,300% per year, he had an idea for an online bookstore.
+
+Bezos used what he later called the "Regret Minimization Framework." He projected himself to age 80 and asked: "Will I regret not trying this?" The answer was obviously yes — he would always wonder what might have been. Then he asked: "Will I regret trying and failing?" The answer was no — even if Amazon failed, he would know he tried. He would not regret the attempt.
+
+He resigned from D.E. Shaw and started Amazon from his garage. The framework didn't predict success. What it did was clarify that the asymmetry of regret pointed toward action: the regret of inaction was certain and permanent, while the regret of failure was tolerable and finite.
+
 ## Real-world examples
 
 **Career pivots.** Should you leave a stable career to pursue something you care about? Short-term thinking emphasises risk. Regret minimisation asks: at 80, which will you regret more — the financial risk, or spending decades in a career that didn't matter to you?

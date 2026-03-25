@@ -23,6 +23,14 @@ In biology, predators evolve faster legs, so prey evolves faster legs too. Neith
 
 The practical implication: most improvements just keep you at parity. True competitive advantage requires doing something different, not just doing the same thing better.
 
+## Case study: How the cybersecurity arms race mirrors evolutionary biology
+
+The Red Queen Effect — named after the character in Through the Looking-Glass who must run faster and faster just to stay in place — perfectly describes the relationship between cybersecurity defenders and attackers.
+
+In the 1990s, basic firewalls and antivirus software were sufficient protection. Attackers evolved. Defenders built intrusion detection systems. Attackers developed polymorphic malware that changed its signature to evade detection. Defenders deployed machine learning-based threat detection. Attackers used adversarial machine learning to fool the detectors. Each advance by one side is immediately countered by the other.
+
+Companies that stop investing in security don't remain at their current level — they fall behind, because the threat landscape continues evolving. The Red Queen Effect means that in competitive or adversarial systems, standing still is equivalent to falling behind. You must keep running just to maintain your current position.
+
 ## Real-world examples
 
 **Technology.** Every company now has a website, social media, and email marketing. These were competitive advantages in 2005. Today they're minimum requirements. The companies that invested early gained a temporary edge that was erased when everyone caught up.

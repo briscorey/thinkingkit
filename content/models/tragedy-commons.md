@@ -28,6 +28,14 @@ The pattern appears whenever a shared resource has no mechanism for limiting ind
 
 Solutions generally fall into three categories: privatisation (give each person ownership of a portion), regulation (impose limits on usage), or social norms (build cultural expectations of responsible use). Elinor Ostrom won the Nobel Prize for showing that communities often manage commons successfully through self-governance, without requiring either privatisation or top-down regulation.
 
+## Case study: How Elinor Ostrom proved the tragedy isn't inevitable
+
+For decades after Garrett Hardin's 1968 paper, economists assumed the tragedy of the commons was inevitable without either privatisation or government regulation. Elinor Ostrom spent her career proving this wrong.
+
+She studied fishing communities in Maine, irrigation systems in Nepal, forest management in Japan, and grazing systems across continents. She documented hundreds of cases where communities successfully managed shared resources for centuries — without privatisation and without government regulation. They used locally evolved rules, monitoring systems, and graduated sanctions.
+
+Ostrom identified eight principles that successful commons governance shares, including clearly defined boundaries, collective-choice arrangements, effective monitoring, and graduated sanctions. She won the Nobel Prize in Economics in 2009 — the first woman to do so — for demonstrating that between privatisation and regulation lies a vast, successful middle ground of community self-governance.
+
 ## Real-world examples
 
 **Overfishing.** Each fishing company maximises its catch. Individually rational. Collectively, fish populations collapse and the industry destroys itself.

@@ -29,6 +29,14 @@ The belief has three tenets. First: "I see the world as it really is." Second: "
 
 This makes genuine disagreement almost impossible, because each side believes their perception is objective reality and the other side is distorted.
 
+## Case study: How the Milgram experiment revealed that normal people authorise evil
+
+In 1961, Stanley Milgram conducted his famous obedience experiments at Yale. Participants believed they were administering increasingly powerful electric shocks to another person (actually an actor). 65% of participants administered the maximum 450-volt shock, despite hearing screams and pleas to stop.
+
+The most revealing aspect wasn't the obedience itself — it was the prediction. Before the experiment, Milgram asked 40 psychiatrists to estimate how many participants would administer the maximum shock. They predicted 1 in 1,000. They were off by a factor of 650.
+
+This massive prediction error is naive realism at work. The psychiatrists assessed the situation from their own perspective — "I would never shock someone" — and assumed others would see it the same way. They couldn't imagine the situational pressures that would make ordinary people comply. Naive realism made them confident in a prediction that was catastrophically wrong.
+
 ## Real-world examples
 
 **Political disagreement.** Both sides in any political debate genuinely believe they're seeing reality clearly and the other side is deluded. Naive realism makes each side underestimate the legitimate reasons the other might disagree.

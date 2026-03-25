@@ -30,6 +30,14 @@ Three core practices make probabilistic thinking work. First, assign explicit pr
 
 Philip Tetlock's research on superforecasters found that the best predictors aren't smarter — they're more probabilistic. They think in fine-grained percentages, they update frequently, and they track their accuracy over time.
 
+## Case study: How the superforecasters outperformed CIA analysts
+
+In 2011, the U.S. Intelligence Advanced Research Projects Activity (IARPA) launched a forecasting tournament, pitting intelligence analysts with access to classified information against volunteers using only public sources. The question: who could better predict geopolitical events?
+
+Philip Tetlock recruited ordinary people — a retired computer programmer, a pharmacy worker, a former ballroom dancer — and trained them in probabilistic thinking. They learned to assign specific percentage probabilities, update estimates with new evidence, and track their calibration over time.
+
+The result was striking: these volunteer "superforecasters" outperformed professional intelligence analysts by 30%, even without access to classified data. The difference wasn't knowledge — it was probabilistic discipline. The analysts thought in vague terms ("likely," "possible"). The superforecasters thought in precise probabilities (73%, not "probably") and updated continuously. Better thinking beat better information.
+
 ## Real-world examples
 
 **Investing.** Instead of "this stock will go up," think: "There's a 60% chance it goes up 20%, a 30% chance it stays flat, and a 10% chance it drops 40%." The expected value is (0.6 × 20%) + (0.3 × 0%) + (0.1 × -40%) = 8%. That's a different decision frame than "it will probably go up."

@@ -25,6 +25,14 @@ Counterfactual thinking means asking: "What if things had been different?" By im
 
 There are two types. Upward counterfactuals ("It could have gone better if...") help identify improvements. Downward counterfactuals ("It could have gone worse if...") help appreciate what went right and identify hidden risks that happened not to materialise.
 
+## Case study: How historians debated whether World War I was inevitable
+
+Niall Ferguson's *The Pity of War* used rigorous counterfactual analysis to challenge the accepted narrative that World War I was inevitable. The conventional view: a web of alliances, arms races, and nationalism made war unavoidable once Archduke Franz Ferdinand was assassinated.
+
+Ferguson asked: what if Britain had stayed neutral? He demonstrated that British entry wasn't predetermined — the Cabinet debated it fiercely, and neutrality was a real option. Without Britain, Germany would have won a short continental war. There would have been no Western Front, no four-year stalemate, no conditions creating World War II.
+
+The counterfactual revealed that one decision — Britain's entry — was the pivot on which the entire 20th century turned. Not the assassination, not the alliances, not the arms race. By imagining the alternative, Ferguson separated the decisive cause from the background conditions.
+
 ## Real-world examples
 
 **Business success.** A startup succeeds and the founder attributes it to their strategy. Counterfactual: "Would this strategy have worked if we'd launched six months later, or in a different market?" If the answer is no, the success may owe more to timing and luck than to the strategy itself.

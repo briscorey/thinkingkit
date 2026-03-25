@@ -20,6 +20,14 @@ Natural selection requires three conditions: variation (differences exist betwee
 
 This mechanism applies wherever these three conditions are met, which turns out to be nearly everywhere: businesses competing in markets, ideas competing for attention, habits competing for your time, technologies competing for adoption, and strategies competing for results.
 
+## Case study: How bacteria defeated humanity's most powerful antibiotics
+
+When penicillin was introduced in the 1940s, it was a miracle drug — bacterial infections that had been death sentences became trivially curable. Alexander Fleming himself warned, in his 1945 Nobel Prize lecture, that bacteria would evolve resistance if antibiotics were misused.
+
+Within four years, resistant strains of Staphylococcus aureus appeared. Each subsequent antibiotic — methicillin, vancomycin, carbapenems — followed the same pattern: introduction, widespread use, emergence of resistance. By the 2020s, antibiotic-resistant infections kill over a million people per year globally.
+
+The mechanism is pure natural selection operating at microbial speed. Antibiotics kill susceptible bacteria but leave resistant mutants to reproduce. Each surviving generation is more resistant than the last. Humans created a selection pressure and evolution responded, exactly as Darwin's theory predicts. The bacteria weren't "learning" resistance — they were being selected for it.
+
 ## Real-world examples
 
 **Business.** Startups are the variation. Market competition is the selection pressure. Successful business models are copied (inherited) by others. This is why markets tend to produce well-adapted businesses over time — not because anyone designed them to, but because poorly adapted ones die.

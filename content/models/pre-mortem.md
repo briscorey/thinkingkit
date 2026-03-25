@@ -30,6 +30,14 @@ The technique works by giving people explicit permission to think about failure.
 
 The process has four steps. First, gather your team or sit alone with your plan. Second, announce: "Imagine it's six months from now. This project has failed completely. It's a disaster." Third, everyone independently writes down all the reasons why it failed. Fourth, share the lists and identify the most likely and most preventable failure modes. Then update your plan to address them.
 
+## Case study: How NASA's pre-mortem culture prevented Apollo 13 from becoming a tragedy
+
+On April 13, 1970, an oxygen tank exploded aboard Apollo 13, crippling the spacecraft 200,000 miles from Earth. What could have been the worst disaster in spaceflight history became instead what NASA calls its "successful failure."
+
+The reason Apollo 13's crew survived was that NASA's Mission Control had spent years running pre-mortems — they called them "failure mode analyses." For every conceivable system failure, they had already asked: "If this breaks, what do we do?" They had procedures for scenarios most people would never imagine: using the lunar module as a lifeboat, improvising CO2 scrubbers from materials on board, and navigating without a computer.
+
+When the real crisis hit, the response team wasn't inventing solutions from scratch. They were executing plans that had been refined through hundreds of imagined failures. The pre-mortem culture didn't prevent the crisis — but it made the difference between catastrophe and survival.
+
 ## Real-world examples
 
 **Product launches.** Before shipping a new feature, a team runs a pre-mortem. They discover that the most commonly imagined failure mode isn't technical — it's that users can't find the feature because the onboarding flow doesn't mention it. This insight redirects effort from engineering polish to user experience, preventing a real failure.

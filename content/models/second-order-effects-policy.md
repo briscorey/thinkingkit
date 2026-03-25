@@ -35,6 +35,14 @@ This is a conservative heuristic in the best sense: it doesn't say "never change
 
 **Code.** A developer sees a strange function in the codebase that seems to do nothing useful and deletes it. Production breaks because the function handled an edge case that occurs once a month.
 
+## Case study: How Australia's rabbit-proof fence failed because nobody asked why rabbits spread
+
+In 1901, Australia began constructing the world's longest fence — 1,833 kilometres — to stop rabbits from spreading into Western Australia's farmland. The fence was Chesterton's Fence in reverse: instead of understanding why the rabbit population was exploding (no natural predators, abundant food, perfect breeding conditions), authorities built a physical barrier.
+
+The fence cost the modern equivalent of hundreds of millions of dollars. Rabbits simply burrowed under it, found gaps, or went around the ends. The structural conditions driving the rabbit plague were untouched.
+
+Had anyone asked "why are the rabbits spreading?" before asking "how do we block them?", they might have introduced biological controls decades earlier. When myxomatosis was finally introduced in 1950, it killed 99% of the rabbit population — no fence required. The fence addressed the symptom without understanding the cause — the exact failure Chesterton's Fence principle is designed to prevent.
+
 ## When to use it
 
 Apply Chesterton's Fence before removing, changing, or disregarding any inherited system, rule, or practice. Ask: "Why does this exist? What problem was it originally solving? Is that problem still present?"

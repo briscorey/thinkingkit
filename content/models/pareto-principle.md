@@ -23,6 +23,14 @@ The exact ratio doesn't matter — it's rarely precisely 80/20. The principle is
 
 The practical implication: identify the vital few inputs that drive most of the results, and concentrate your resources there. Most people spread their effort evenly across all activities when they should be ruthlessly focusing on the highest-leverage 20%.
 
+## Case study: How Vilfredo Pareto noticed the pattern in his garden
+
+In the late 1800s, Italian economist Vilfredo Pareto noticed that roughly 80% of the land in Italy was owned by 20% of the population. Curious, he checked other countries — the same pattern held. He then noticed it in his garden: 20% of his pea pods produced 80% of the peas.
+
+The pattern turned out to be nearly universal. IBM discovered in the 1960s that 80% of computer crashes came from 20% of bugs. Microsoft found that fixing the top 20% of reported bugs eliminated 80% of errors. In business, roughly 80% of revenue typically comes from 20% of customers.
+
+Pareto's insight wasn't precise — the ratio isn't always 80/20. But the underlying pattern is real: in most systems, a small minority of inputs produces a disproportionate majority of outputs. The practical implication is enormous: find the vital few and focus there.
+
 ## Real-world examples
 
 **Business.** A typical business finds that ~20% of customers generate ~80% of revenue. The strategic response: invest disproportionately in serving and retaining those top customers rather than spreading effort evenly across all customers.

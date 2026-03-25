@@ -25,6 +25,12 @@ Asymmetric information exists when one party in a transaction knows more than th
 
 The principle extends far beyond economics. In any negotiation, hiring decision, purchase, or advisory relationship, information asymmetry shapes outcomes. The party with more information has structural advantage.
 
+## Case study: How the used car market creates 'lemons'
+
+George Akerlof's 1970 paper "The Market for Lemons" demonstrated why used car markets are plagued by bad deals. Sellers know whether their car is reliable or a lemon. Buyers don't. Because buyers can't tell the difference, they're only willing to pay an average price. But at the average price, owners of good cars withdraw — why sell a reliable car for a lemon's price? The market progressively fills with lemons.
+
+Akerlof showed this information asymmetry can cause entire markets to collapse. His solution — warranties, certifications, reputation systems — became the foundation of market design. He won the Nobel Prize in 2001 for demonstrating that unequal information doesn't just distort markets; it can destroy them.
+
 ## Real-world examples
 
 **Hiring.** Candidates know more about their true abilities and work habits than the interviewer. This is why references, trial periods, and work samples exist — they reduce information asymmetry.

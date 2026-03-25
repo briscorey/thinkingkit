@@ -30,6 +30,14 @@ Hanlon's Razor is the corrective. Before assuming someone acted with bad intent,
 
 This doesn't mean malice never exists. It means malice is the last hypothesis, not the first.
 
+## Case study: How the Mars Climate Orbiter was lost to a unit conversion error
+
+In September 1999, NASA lost the $125 million Mars Climate Orbiter. The spacecraft approached Mars at too low an altitude and burned up in the atmosphere. Initial speculation focused on sabotage, software corruption, or fundamental design flaws.
+
+The actual cause was far more mundane: one engineering team at Lockheed Martin was using imperial units (pound-seconds) while NASA's Jet Propulsion Laboratory was using metric units (newton-seconds). Nobody caught the discrepancy during months of mission operations. There was no malice, no sabotage, no grand failure of engineering. Just a unit conversion error that nobody noticed.
+
+The instinct is to search for dramatic explanations when dramatic things happen. Hanlon's Razor reminds you to check the mundane explanations first. The most expensive mistakes often have the most embarrassingly simple causes.
+
 ## Real-world examples
 
 **Workplace.** Your colleague didn't CC you on an important email. Attribution to malice: they're trying to cut you out. Hanlon's Razor: they were writing quickly and forgot, or they didn't realise you needed to be included.

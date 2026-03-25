@@ -23,6 +23,14 @@ A decision made with 90% odds of success will still fail 10% of the time. That 1
 
 The practice: evaluate decisions at the time they were made, with the information available at that time, not by the outcome that happened to occur. This separates "resulting" (judging by results) from genuine decision quality assessment.
 
+## Case study: How Annie Duke won $4 million by separating decisions from outcomes
+
+Professional poker player Annie Duke was playing in the 2004 Tournament of Champions when she faced a critical decision with a medium-strength hand. The mathematically correct play was to fold — the expected value of continuing was slightly negative. But she noticed tells from her opponent that shifted the probability calculation, and she called.
+
+She lost the hand. By outcome-focused thinking, it was a bad decision. By process-focused thinking, it was a good decision — she correctly incorporated new information to update her probability estimate, and the expected value with the updated information was positive.
+
+Duke went on to win the tournament and $2 million. Her key insight: judge decisions by the quality of the process, not the quality of the outcome. A good decision can produce a bad result. A bad decision can produce a good result. Over time, good process beats good luck.
+
 ## Real-world examples
 
 **Poker.** Going all-in with pocket aces is a good decision. If you lose to a lucky river card, it was still a good decision — the odds were heavily in your favour. Evaluating the decision by the outcome would teach you the wrong lesson: "don't go all-in with aces."

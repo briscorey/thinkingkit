@@ -20,6 +20,14 @@ Emergence occurs when a system of simple components following simple rules produ
 
 The key insight for practical thinking: you cannot understand emergent phenomena by analysing the parts in isolation. You have to study the interactions, the rules governing those interactions, and the patterns that arise from them.
 
+## Case study: How a simple rule created Wikipedia's extraordinary complexity
+
+When Jimmy Wales launched Wikipedia in 2001, the rules were staggeringly simple: anyone can edit any page, changes are tracked, and content should aim for a neutral point of view. There was no master plan for the structure, no editorial board assigning topics, no quality review process.
+
+From these simple rules, an extraordinary complexity emerged: over 60 million articles in 300 languages, self-organising communities of editors with informal hierarchies, dispute resolution mechanisms, quality standards, featured article processes, and a collective knowledge base that rivals traditional encyclopedias in accuracy.
+
+No individual designed Wikipedia's structure. It emerged from millions of individual edits, each following simple local rules. The global complexity — the organisation, the quality control, the governance — arose from the bottom up. This is emergence: complex, ordered behaviour arising from simple rules and many interacting agents, with no central coordinator.
+
 ## Real-world examples
 
 **Traffic jams.** No driver intends to create a traffic jam. Each driver follows simple rules: maintain safe distance, brake when the car ahead brakes. But these simple rules, applied by thousands of agents, produce phantom traffic jams that propagate backwards through traffic with no apparent cause.

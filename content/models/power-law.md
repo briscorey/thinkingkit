@@ -30,6 +30,14 @@ This appears everywhere: a tiny fraction of earthquakes cause the vast majority 
 
 The practical implication: in power law domains, averages are misleading, and concentrating effort on the vital few produces far more value than spreading it across the trivial many.
 
+## Case study: How one bet returned more than the rest of Peter Thiel's fund combined
+
+In 2004, Peter Thiel invested $500,000 in Facebook as its first outside investor, acquiring a 10.2% stake. When Facebook went public in 2012, Thiel's stake was worth over $1 billion — a 2,000x return.
+
+Thiel's Founders Fund invested in dozens of companies. But that single Facebook investment returned more than all the other investments in the fund combined. This isn't an anomaly in venture capital — it's the fundamental pattern. Returns follow a power law so extreme that the single best investment typically accounts for more value than all other investments put together.
+
+This is why venture capital strategy is fundamentally different from most investing: the goal isn't to avoid losers. It's to find the one outlier that makes everything else irrelevant.
+
 ## Real-world examples
 
 **Venture capital.** Returns follow a power law so extreme that a single company (like Google or Facebook) can return more than the rest of a fund combined. This is why VCs optimise for finding the outlier, not avoiding failures.

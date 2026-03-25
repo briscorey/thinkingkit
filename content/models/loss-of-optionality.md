@@ -26,6 +26,14 @@ Some decisions can be reversed cheaply; others can't. Jeff Bezos calls these "tw
 
 The practical implication: match your decision-making effort to the reversibility of the decision. Most people apply the same level of deliberation to all decisions, which means they're too slow on reversible ones and sometimes too fast on irreversible ones.
 
+## Case study: How Jeff Bezos classified Amazon's decisions into two types
+
+Jeff Bezos structured Amazon's decision-making around a distinction between "Type 1" (one-way door) and "Type 2" (two-way door) decisions. In his 2015 shareholder letter, he argued that most decisions are Type 2 — reversible and forgiving — and should be made quickly by small teams.
+
+Type 1 decisions — like entering a new country, acquiring a company, or fundamentally changing a pricing model — are irreversible and deserve careful deliberation. Bezos personally reviewed only Type 1 decisions, delegating the vast majority of Type 2 choices to teams closest to the information.
+
+This framework explained Amazon's seemingly contradictory culture: simultaneously cautious (spending years deliberating on entering new markets) and reckless (launching dozens of failed products without apparent concern). The distinction wasn't about risk tolerance. It was about reversibility.
+
 ## Real-world examples
 
 **Career.** Taking a new job in the same industry is mostly reversible — you can leave and find another. Accepting a two-year assignment in a remote location with no career alternatives is less reversible. The second decision deserves more deliberation.

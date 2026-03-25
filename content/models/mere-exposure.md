@@ -26,6 +26,14 @@ Robert Zajonc discovered that simply being exposed to something repeatedly makes
 
 The effect is powerful because it operates unconsciously. You don't decide to like something more because you've seen it before. Your brain simply processes familiar stimuli more fluently, and it misinterprets that processing ease as genuine preference.
 
+## Case study: How the Eiffel Tower went from hated to beloved through pure exposure
+
+When the Eiffel Tower was completed in 1889, prominent Parisians signed a petition calling it "a disgrace to the city." Guy de Maupassant supposedly ate lunch at the tower's restaurant every day because, he said, it was the only place in Paris where he didn't have to look at it. Artists, writers, and architects condemned it as an eyesore.
+
+Yet within a generation, the tower had become the most beloved symbol of Paris. No new information about its design or purpose had emerged. The aesthetics hadn't changed. Parisians had simply been exposed to it — day after day, walking past it, seeing it on postcards, watching it become part of the skyline. Repeated exposure transformed revulsion into affection.
+
+The Eiffel Tower's journey from hated to iconic is the mere exposure effect operating at city scale.
+
 ## Real-world examples
 
 **Advertising.** Brand advertising doesn't need to persuade you of anything specific. It just needs to make you familiar with the brand. When you later face a choice, the familiar option feels safer and more trustworthy.

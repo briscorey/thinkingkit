@@ -72,6 +72,14 @@ The process has three steps. First, define what you're trying to achieve. Second
 </svg>
 </div>
 
+## Case study: How Florence Nightingale saved the British Army
+
+In 1854, Florence Nightingale arrived at a British military hospital in Scutari during the Crimean War. The death rate among wounded soldiers was 42%. Rather than asking "how do I heal these men?" — the forward question every doctor was already trying to answer — Nightingale inverted: "What is killing them?"
+
+She discovered the answer wasn't battlefield wounds. It was the hospital itself. Open sewers ran beneath the building. Ventilation was nonexistent. Patients lay in their own waste. She didn't introduce new medical treatments. She scrubbed the floors, opened the windows, improved the drains, and demanded clean bedding.
+
+Within months the death rate fell to 2%. Nightingale didn't save the British Army by finding better cures. She saved it by removing the causes of death. Pure inversion.
+
 ## Real-world examples
 
 **Investing.** Warren Buffett doesn't try to find the best investments. He starts by listing all the ways people lose money — overpaying, investing in things they don't understand, using leverage — and avoids those. His first two rules: "Rule 1: Don't lose money. Rule 2: Don't forget Rule 1."

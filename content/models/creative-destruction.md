@@ -28,6 +28,14 @@ Joseph Schumpeter described creative destruction as the engine of capitalism: in
 
 The key insight: this destruction isn't a bug — it's a feature. The constant churn of creation and destruction is what drives economic progress. Attempts to prevent creative destruction (protecting dying industries, blocking new entrants) slow progress for everyone.
 
+## Case study: How the automobile destroyed and created entire industries simultaneously
+
+When Henry Ford made the Model T affordable in the 1910s, the automotive revolution didn't just replace horses — it triggered cascading creative destruction across dozens of industries.
+
+Destroyed: horse breeding, carriage manufacturing, buggy whip production, hay farming (horses consumed one-quarter of U.S. farmland), blacksmithing, livery stables, manure removal (New York alone employed thousands of street cleaners for horse waste). Created: petroleum refining, rubber manufacturing, road construction, suburban real estate, motels, drive-in restaurants, shopping malls, auto insurance, auto repair, traffic law, and eventually the entire aerospace industry (many early aircraft manufacturers were former automakers).
+
+The net result was enormous economic growth — but the transition devastated specific communities and workforces. Creative destruction is never painless for those being destroyed.
+
 ## Real-world examples
 
 **Retail.** E-commerce is destroying traditional retail. This is painful for mall operators and store employees, but it's creating more value for consumers and more efficient allocation of resources.

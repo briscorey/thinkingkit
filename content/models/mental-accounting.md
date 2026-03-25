@@ -26,6 +26,12 @@ Mental accounting, identified by Richard Thaler, describes how people create sep
 
 Economically, this is irrational — money is fungible, meaning a dollar is a dollar regardless of its source. But psychologically, we consistently violate this principle.
 
+## Case study: How casino chips exploit mental accounting to increase gambling
+
+Casinos don't let you gamble with cash. They make you convert money into chips first. This isn't just logistical convenience — it's a deliberate exploitation of mental accounting. Research shows that people treat chips differently from cash. A $100 chip feels less "real" than a $100 bill. It occupies a different mental account — "gambling money" rather than "real money."
+
+Richard Thaler documented that this mental accounting effect causes people to bet larger amounts with chips than they would with equivalent cash, take bigger risks because losses feel less painful, and continue playing longer than they would with real currency. The physical conversion from cash to chips moves money from the "careful spending" mental account to the "entertainment/house money" mental account, where different (less cautious) rules apply.
+
 ## Real-world examples
 
 **The bonus effect.** You carefully budget your monthly salary but blow through a $2,000 bonus on an impulse purchase you'd never make with "regular" money. Same $2,000, different mental treatment.

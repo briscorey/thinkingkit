@@ -30,6 +30,14 @@ The power is in controlled variation. By changing one variable in an imaginary s
 
 Einstein imagined chasing a beam of light. What would it look like if you caught up to it? The logical consequences of that simple scenario led to special relativity. You don't need to revolutionise physics — but the same structure works for everyday decisions.
 
+## Case study: How Einstein discovered relativity by imagining riding a light beam
+
+At age 16, Albert Einstein performed the thought experiment that would eventually lead to the theory of special relativity. He asked: "What would happen if I chased a beam of light at the speed of light?"
+
+According to classical physics, he should see the light wave frozen in space — a stationary electromagnetic field oscillating in place. But Maxwell's equations said this was impossible. An electromagnetic field couldn't stand still. This contradiction — visible only through imagination, not through any physical experiment possible at the time — revealed that something was fundamentally wrong with the Newtonian framework.
+
+It took Einstein another decade to resolve the contradiction, ultimately concluding that the speed of light is constant for all observers and that time itself must be variable. The most consequential physics discovery of the 20th century began not with an experiment or observation, but with a teenager sitting in a chair and asking "what if?" 
+
 ## Real-world examples
 
 **Career decisions.** Thought experiment: "If I knew with certainty that this company would go bankrupt in two years, would I still take this job for the experience alone?" This isolates whether you value the role itself or just the stability.

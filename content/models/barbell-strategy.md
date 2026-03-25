@@ -29,6 +29,12 @@ The metaphor is literal: load both ends of the barbell, leave the middle empty. 
 
 The strategy works because it makes you antifragile. You can't be ruined by the downside (your safe end protects you), and you're positioned to benefit enormously from positive surprises (your speculative end captures them).
 
+## Case study: How Seneca lived as both a Stoic philosopher and one of Rome's richest men
+
+Seneca, the great Stoic philosopher who wrote extensively about simple living and detachment from wealth, was simultaneously one of the wealthiest men in the Roman Empire. Critics called him a hypocrite. Nassim Taleb calls him a barbell strategist.
+
+Seneca kept his vast wealth (the safe end) while being psychologically prepared to lose all of it at any moment (the speculative end). He practised "premeditatio malorum" — deliberately imagining the worst-case scenario and mentally rehearsing his equanimity in the face of total loss. When Emperor Nero eventually did confiscate his wealth and order his death, Seneca accepted both with composure. He had been rehearsing for this his entire life. The barbell wasn't hypocrisy — it was preparation.
+
 ## Real-world examples
 
 **Career.** Keep a stable income source (consulting, teaching, employment) while dedicating 20% of your time to high-upside projects (a book, a startup, a creative venture). You can't be ruined, but you're positioned for a breakthrough.

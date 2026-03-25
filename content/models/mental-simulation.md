@@ -27,6 +27,14 @@ Scenario planning, developed at Royal Dutch Shell in the 1970s, is the practice 
 
 The power of scenario planning isn't prediction — it's mental preparation. When you've already imagined and planned for multiple futures, you respond faster and better when reality unfolds, because nothing is entirely unexpected.
 
+## Case study: How Royal Dutch Shell predicted the oil crisis by imagining alternative futures
+
+In the early 1970s, Shell's head of planning, Pierre Wack, didn't try to predict the future. Instead, he developed multiple scenarios: one where OPEC maintained the status quo, and another where oil-producing nations dramatically restricted supply and raised prices.
+
+Most oil companies operated under a single assumption: cheap oil would continue indefinitely. Shell's scenario planning meant they had already imagined and prepared for the alternative. When OPEC imposed an oil embargo in 1973, quadrupling prices, every other major oil company was caught off guard.
+
+Shell had contingency plans, diversification strategies, and hedging positions already in place. Within two years, Shell rose from being the weakest of the "Seven Sisters" oil companies to one of the two strongest. They didn't predict the crisis — they imagined it, prepared for it, and were ready when it arrived.
+
 ## Real-world examples
 
 **Shell Oil.** Shell's planners imagined a scenario where OPEC countries dramatically reduced oil supply. When the 1973 oil crisis actually happened, Shell was the only major oil company with contingency plans already in place. They rose from the weakest of the Seven Sisters to one of the two strongest.

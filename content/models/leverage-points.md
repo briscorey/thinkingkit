@@ -23,6 +23,14 @@ From lowest to highest leverage: adjusting numbers (tax rates, speed limits), ch
 
 The counterintuitive insight: the interventions that feel most concrete and actionable (adjusting numbers) are usually the least effective, while the interventions that feel most abstract (changing mental models) are the most powerful.
 
+## Case study: How one regulation changed the entire American automobile industry
+
+In 1975, the U.S. Congress passed the Corporate Average Fuel Economy (CAFE) standards, requiring automakers to achieve minimum average fuel efficiency across their fleet. This single regulatory intervention — a leverage point in the system — transformed the entire automotive industry.
+
+Rather than mandating specific technologies, the regulation changed the rules of the game. Manufacturers had to innovate or face penalties. This single constraint triggered decades of engineering investment in lighter materials, better aerodynamics, more efficient engines, and eventually hybrid and electric vehicles. One structural change created cascading innovation across the entire system.
+
+Donella Meadows would recognise this as intervention at a high-leverage point: changing the rules of the system rather than trying to push against the system's existing behaviour. One regulation accomplished more than thousands of individual appeals to consumers to buy fuel-efficient cars.
+
 ## Real-world examples
 
 **Education.** Low-leverage: adjusting class sizes by 2 students. Medium-leverage: changing the assessment system from grades to portfolio-based evaluation. High-leverage: shifting the shared mental model of what education is for — from "sorting students" to "developing thinking."

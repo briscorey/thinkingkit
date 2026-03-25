@@ -60,6 +60,14 @@ The process follows three phases. First, identify your assumptions about the pro
 </svg>
 </div>
 
+## Case study: How Elon Musk cut rocket costs by 90%
+
+In 2002, Elon Musk wanted to buy a rocket to send a small payload to Mars. NASA quoted prices around $65 million per launch. Russian vendors wanted $18 million — for used ICBMs. Instead of accepting the market price, Musk asked: "What are rockets actually made of?"
+
+He broke a rocket into its raw materials: aerospace-grade aluminium alloys, titanium, copper, carbon fibre composites. He priced each on commodity markets. The total material cost was roughly 2% of the purchase price. The 50x markup came from decades of inherited manufacturing processes, cost-plus government contracts, and an industry with no incentive to innovate.
+
+SpaceX built its own rockets from materials up, vertically integrating manufacturing. By 2020, a Falcon 9 launch cost under $3 million. Musk didn't negotiate a better price. He decomposed the problem and rebuilt from fundamental truths.
+
 ## Real-world examples
 
 **SpaceX rockets.** The conventional wisdom said rockets cost $65 million because "that's what aerospace companies charge." Elon Musk broke the rocket into raw materials — aerospace-grade aluminium, titanium, copper, carbon fibre. The raw material cost was roughly 2% of the typical price. The question became: "Why is there a 50x markup?" The answer was inefficient manufacturing processes inherited from decades of tradition. By rebuilding from material costs upward, SpaceX reduced launch costs by a factor of 10.

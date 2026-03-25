@@ -28,6 +28,14 @@ This works because time is an extremely effective filter. Ideas and systems that
 
 The effect applies only to non-perishable entities. Humans age and die — the Lindy Effect doesn't apply to biology. But it applies to technologies, cultural practices, institutions, ideas, and systems.
 
+## Case study: How the King James Bible outlasted every modern translation
+
+The King James Bible was published in 1611. Since then, hundreds of "improved" translations have been produced — each claiming to be more accurate, more accessible, or more modern. The New International Version (1978), the English Standard Version (2001), and many others have sold millions of copies.
+
+Yet the King James Version remains the most quoted, most recognised, and most culturally influential English Bible translation, over 400 years after publication. Its language has entered everyday English: "a drop in the bucket," "the blind leading the blind," "the writing on the wall."
+
+The Lindy Effect predicts exactly this. The KJV has survived four centuries of competition, cultural change, and linguistic evolution. Each year it endures increases the expected duration of its future survival. Modern translations, regardless of their technical merits, have not yet passed the test of time. The Lindy-tested option has a track record. The new options have only promise.
+
 ## Real-world examples
 
 **Books.** The Iliad (2,800 years old) will almost certainly outlast any bestseller published this year. Books that survive centuries have proven they contain something durable.

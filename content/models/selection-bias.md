@@ -25,6 +25,14 @@ Selection bias occurs when the sample you're observing isn't representative of t
 
 The most common form: you only see the data that made it through a selection process, not the data that was filtered out. This is closely related to survivorship bias, but broader — any non-random filtering of observations creates selection bias.
 
+## Case study: How mutual fund advertisements only show you the winners
+
+When you see a mutual fund advertisement claiming "We've beaten the market for 10 consecutive years," you're seeing selection bias in action. The fund company likely launched dozens of funds. The ones that underperformed were quietly closed or merged into other funds. Only the survivors — the ones with good track records — get advertised.
+
+Burton Malkiel documented this pattern: fund companies launch many funds, then heavily market the ones that happen to perform well (by luck as much as skill), while burying the ones that don't. The investor sees only the selected winners and concludes that the company is skilled at picking stocks. They're actually skilled at selecting which results to show you.
+
+This is why past performance genuinely doesn't predict future results — and why the disclaimer is legally required but psychologically ineffective.
+
 ## Real-world examples
 
 **Customer feedback.** The customers who contact support are not representative of all customers. They're the ones with the strongest feelings — usually negative. Designing your product based only on support tickets means you're optimising for the loudest minority.

@@ -23,6 +23,14 @@ Via negativa means "the negative way" — improving through subtraction rather t
 
 This works because addition has unpredictable second-order effects (new medications interact with existing conditions, new processes create new bureaucracy, new features create new complexity), while subtraction removes known downsides with more predictable effects.
 
+## Case study: How Michelangelo created David by removing everything that wasn't David
+
+When asked how he created his masterpiece, Michelangelo reportedly replied: "I saw the angel in the marble and carved until I set him free." Whether apocryphal or not, the story captures Via Negativa perfectly: the masterpiece was created not by adding material, but by removing everything that wasn't the statue.
+
+In a more modern application, Steve Jobs returned to Apple in 1997 and found the company producing dozens of products across bewildering product lines. His first act wasn't to add new products — it was to kill 70% of existing ones. He reduced Apple's offerings to a simple 2x2 grid: consumer/professional, desktop/portable. Four products. Everything else was cut.
+
+Apple's subsequent resurrection — the iMac, iPod, iPhone — happened because Jobs cleared the space first. The addition became possible only after the subtraction. Via Negativa created the conditions for Via Positiva.
+
 ## Real-world examples
 
 **Health.** The most reliable health improvement isn't adding a supplement or a superfood — it's removing ultra-processed food, excessive alcohol, chronic sleep deprivation, and sedentary behaviour. Removing known harms is more impactful and better-evidenced than adding purported benefits.

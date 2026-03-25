@@ -30,6 +30,14 @@ In finance, options are formal contracts. In life, optionality is a way of think
 
 The key insight: in uncertain environments, optionality is more valuable than prediction. You don't need to know what the future holds if you're positioned to benefit from multiple outcomes.
 
+## Case study: How Pixar preserved optionality for 10 years before finding its path
+
+Pixar spent a decade (1986-1995) as a hardware company selling the Pixar Image Computer, while simultaneously producing short animated films on the side. The short films won awards but generated no revenue. The hardware business lost money consistently. Steve Jobs, who had bought the company from Lucasfilm, invested $50 million keeping it alive.
+
+The critical decision: Jobs didn't force Pixar to choose one path. He maintained the optionality of the animation capability even while the hardware business was the "real" company. When the hardware business finally failed, the animation team — which had been developing its skills for a decade — was ready to produce *Toy Story* (1995), the first fully computer-animated feature film.
+
+*Toy Story* earned $373 million and launched a studio that would produce 27 films with a cumulative gross exceeding $14 billion. The decade of "wasted" optionality turned out to be the most valuable investment in entertainment history.
+
 ## Real-world examples
 
 **Career.** Moving to a major city preserves optionality: more jobs, more industries, more people, more serendipity. Moving to a small town with one employer reduces optionality even if the immediate offer is attractive.

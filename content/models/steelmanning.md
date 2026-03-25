@@ -23,6 +23,14 @@ The process: before responding to an argument you disagree with, first reconstru
 
 This practice does three things. It forces you to genuinely understand the opposing view rather than caricaturing it. It earns you intellectual respect, making the other person more likely to listen to your counterarguments. And it sometimes — genuinely — changes your mind, because the strongest version of an argument may actually be right.
 
+## Case study: How Abraham Lincoln built his cabinet from his opponents
+
+When Abraham Lincoln won the 1860 presidential election, he made a decision that stunned the political world: he appointed his three primary rivals for the Republican nomination — William Seward, Salmon Chase, and Edward Bates — to his cabinet, giving them the three most important posts (Secretary of State, Treasury, and Attorney General).
+
+Lincoln didn't just tolerate opposing views. He actively sought the strongest versions of arguments against his own positions. When considering the Emancipation Proclamation, he invited his cabinet to present the best possible case against it. He wanted to hear the steelmanned opposition — not a weak strawman he could easily defeat, but the strongest argument that existed.
+
+Historian Doris Kearns Goodwin documented how this "team of rivals" approach forced Lincoln to confront the genuine weaknesses in his positions and produced better decisions as a result. Lincoln didn't win arguments by finding weak opponents. He won by defeating the strongest possible version of the opposing view.
+
 ## Real-world examples
 
 **Policy debates.** Instead of arguing against the stupidest version of a policy proposal, engage with its strongest justification. "I understand the argument for this policy is X, Y, Z — and here's why I think those reasons are outweighed by A, B, C" is far more persuasive than "anyone who supports this is an idiot."

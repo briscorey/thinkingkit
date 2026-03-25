@@ -21,6 +21,14 @@ Charlie Munger considers incentives the most powerful force in human behaviour. 
 
 The model operates on three levels. First, explicit incentives — pay, bonuses, promotions, punishments. These are visible and obvious. Second, implicit incentives — social approval, status, avoiding embarrassment, feeling competent. These are invisible but often more powerful. Third, perverse incentives — situations where the incentive structure rewards the opposite of the desired outcome. These are everywhere and incredibly destructive.
 
+## Case study: How a misaligned incentive almost crashed Wells Fargo
+
+In the early 2010s, Wells Fargo set aggressive cross-selling targets: each customer should have at least eight financial products. Employees who met targets received bonuses. Employees who didn't faced termination. The incentive structure was clear.
+
+Between 2002 and 2016, Wells Fargo employees created approximately 3.5 million unauthorised bank accounts and credit cards in customers' names. They weren't criminal masterminds — they were ordinary employees responding rationally to the incentive structure placed in front of them. The targets were unrealistic. The penalties for missing them were severe. Creating fake accounts was the logical response to an irrational incentive.
+
+When Charlie Munger says "show me the incentive and I'll show you the outcome," this is what he means. The Wells Fargo scandal wasn't caused by bad employees. It was caused by bad incentives.
+
 ## Real-world examples
 
 **Healthcare.** Fee-for-service medicine incentivises doctors to perform more procedures, not to keep patients healthy. Capitation models (fixed payment per patient) reverse the incentive — now the doctor benefits from keeping you well.

@@ -27,6 +27,14 @@ Barry Schwartz's research shows that increasing the number of options doesn't al
 
 The distinction is between "maximisers" (who want the absolute best option) and "satisficers" (who want the first option that meets their criteria). Satisficers make faster decisions and report higher satisfaction, despite spending less effort choosing.
 
+## Case study: How Trader Joe's succeeds by offering fewer options than any competitor
+
+While typical supermarkets carry 30,000-50,000 products, Trader Joe's carries roughly 4,000. When the company tested carrying more products in the 1990s, sales per square foot actually decreased. Customers became overwhelmed, spent more time deciding, and bought less.
+
+By radically limiting selection — one or two options per category instead of twenty — Trader Joe's eliminated the decision fatigue that plagues conventional grocery shopping. Customers trust the curation: if Trader Joe's carries only one marinara sauce, it's probably a good one.
+
+The result: Trader Joe's achieves approximately double the sales per square foot of the average supermarket. Less choice, properly curated, produces more satisfaction and more revenue than overwhelming abundance.
+
 ## Real-world examples
 
 **Streaming services.** With thousands of shows available, many people spend 30 minutes browsing and end up watching nothing — or watching something and feeling they should have chosen better.

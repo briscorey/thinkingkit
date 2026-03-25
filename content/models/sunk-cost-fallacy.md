@@ -22,6 +22,14 @@ This fallacy is driven by loss aversion — quitting feels like wasting everythi
 
 The antidote question: "If I were starting from scratch today, with no prior investment, would I choose this path?" If the answer is no, the sunk costs are keeping you trapped.
 
+## Case study: How the Concorde flew for decades despite never making money
+
+The Concorde supersonic airliner is so closely associated with the sunk cost fallacy that economists call it "the Concorde fallacy." The British and French governments jointly funded the aircraft's development starting in 1962. By the late 1960s, it was clear the plane would never be commercially viable — airlines weren't ordering it, operating costs were enormous, and sonic booms meant it couldn't fly supersonic over land.
+
+But billions had already been spent. Neither government wanted to be the one to admit the money was wasted. So they continued funding, continued building, and continued operating the plane at a loss for 27 years. Internal government memos from the period explicitly acknowledge that the project should have been cancelled, but that the political cost of admitting the sunk costs were unrecoverable was too high.
+
+The Concorde was a magnificent engineering achievement and a catastrophic business decision — sustained for decades by the inability to accept that money already spent was gone regardless of future choices.
+
 ## Real-world examples
 
 **Bad movies.** You paid for a cinema ticket. Thirty minutes in, the film is terrible. You stay because "I already paid." But the ticket price is gone whether you stay or leave. The only question: is the next 90 minutes better spent watching a bad movie or doing something else?

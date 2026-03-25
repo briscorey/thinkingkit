@@ -30,6 +30,14 @@ Most people calculate the explicit cost of a decision (money, time, effort) but 
 
 The framework has two steps. First, whenever you're evaluating a choice, identify your next-best alternative. Second, compare the expected value of your choice against the expected value of that alternative. The difference is your true opportunity cost.
 
+## Case study: How Netflix destroyed Blockbuster by understanding what customers were actually giving up
+
+In 2000, Reed Hastings offered to sell Netflix to Blockbuster for $50 million. Blockbuster's CEO laughed him out of the room. Blockbuster was a $6 billion company with 9,000 stores. Netflix was a money-losing DVD-by-mail startup.
+
+But Hastings understood opportunity cost in a way Blockbuster didn't. Blockbuster's business model required customers to drive to a store, browse physical shelves, and — crucially — pay late fees if they didn't return the DVD on time. The late fees alone generated $800 million annually. Blockbuster saw this as revenue. Hastings saw it as a cost imposed on customers: the cost of anxiety, trips to the store, and penalties.
+
+Netflix eliminated every one of those customer opportunity costs: no driving, no browsing physical shelves, no late fees, no returns. By 2010, Blockbuster filed for bankruptcy. They weren't outcompeted on content — they were outcompeted by a company that understood what their customers were giving up.
+
 ## Real-world examples
 
 **Career.** Staying in a comfortable job that pays $80K has an opportunity cost: the $120K you could earn at a challenging new role, the skills you'd develop, the network you'd build. The salary gap is obvious, but the skill and network costs are often larger.

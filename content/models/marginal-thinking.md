@@ -23,6 +23,14 @@ This matters because of diminishing marginal returns. The first hour studying fo
 
 Sunk costs (what you've already invested) are irrelevant to marginal decisions. Only the incremental cost and incremental benefit matter.
 
+## Case study: How Southwest Airlines revolutionised pricing by thinking at the margin
+
+In the 1970s, traditional airlines priced tickets based on average costs: take total costs, divide by seats, add margin. This meant every seat was priced similarly. Southwest Airlines asked a different question: "What does it cost to fly one additional passenger on a plane that's going to fly anyway?"
+
+The marginal cost of filling an empty seat was almost zero — a tiny amount of fuel, a packet of peanuts, a printed boarding pass. The plane, crew, fuel, airport fees — all fixed costs — were already committed. Southwest realised it could sell remaining seats at dramatic discounts and still make money on each one, because the marginal revenue exceeded the marginal cost.
+
+This marginal thinking approach — focusing on the cost and revenue of the next unit, not the average — transformed the airline industry and created the model that budget carriers worldwide still follow.
+
 ## Real-world examples
 
 **Product development.** The first few features of a product deliver enormous value. Each additional feature delivers less value and adds more complexity. Great product teams ask: "Is the marginal value of this next feature worth its marginal cost in complexity?" Most products would be better with fewer features.

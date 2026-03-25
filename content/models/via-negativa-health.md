@@ -30,6 +30,14 @@ Nassim Taleb argues that iatrogenics is one of the most underappreciated risks i
 
 The key insight: in complex systems, the default state (no intervention) often produces better outcomes than well-intentioned but poorly understood interventions.
 
+## Case study: How routine tonsillectomies harmed millions of children
+
+From the 1930s through the 1970s, tonsillectomy was one of the most common surgeries in the United States. Doctors routinely removed children's tonsils at the first sign of recurring sore throats. At its peak, over a million tonsillectomies were performed annually. The intervention seemed obviously beneficial — remove the inflamed tissue, eliminate the problem.
+
+Decades of follow-up research revealed a different story. Most children's tonsillitis would have resolved naturally as their immune systems matured. The surgery carried risks of bleeding, infection, and anaesthesia complications. A 2018 study in JAMA found that childhood tonsillectomy was associated with significantly increased long-term risk of respiratory diseases.
+
+The medical establishment had been causing iatrogenic harm on a massive scale — intervening when the condition would have self-resolved, and creating new problems in the process. The iatrogenic damage wasn't from bad doctors. It was from a system that valued action over observation.
+
 ## Real-world examples
 
 **Medicine.** Overprescribing antibiotics creates resistant superbugs. The treatment itself generates a worse problem than the original illness.

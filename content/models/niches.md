@@ -26,6 +26,14 @@ In biology, organisms don't just adapt to their environments — they modify the
 
 Applied to life and work, niche construction means proactively shaping your environment to amplify your strengths rather than passively accepting the conditions you find yourself in. Instead of asking "how do I fit in here?", ask "how do I reshape this to fit me?"
 
+## Case study: How Cirque du Soleil constructed a new entertainment niche
+
+In the 1980s, the traditional circus industry was dying. Animal rights concerns, competition from television, and declining audiences made the conventional circus model unviable. Cirque du Soleil didn't try to be a better traditional circus. They constructed an entirely new niche.
+
+By combining circus acrobatics with theatre storytelling, original music, and artistic design — while eliminating animals, star performers, and the three-ring format — they created a category that didn't exist before. They weren't competing with Ringling Brothers. They were competing with Broadway shows and Concerts, at circus-like price points.
+
+Cirque du Soleil's revenue exceeded $1 billion annually at its peak. They didn't win in an existing market. They built a niche where their unique combination of capabilities was the winning hand.
+
 ## Real-world examples
 
 **Career.** Instead of competing for a generic role with hundreds of applicants, create a role that combines your unique skills in a way no one else can match. The person who's both a skilled data analyst and an engaging communicator doesn't compete with pure analysts or pure communicators — they've constructed a niche.

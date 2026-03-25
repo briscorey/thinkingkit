@@ -20,6 +20,14 @@ When demand for something exceeds supply, its price (or value) rises. When suppl
 
 The model becomes powerful when you use it to explain phenomena that seem mysterious. Why are some highly skilled professionals underpaid? Because the supply of people with that skill exceeds the demand. Why do mediocre products sometimes command premium prices? Because demand exceeds the supply of alternatives in that specific niche.
 
+## Case study: How De Beers manufactured diamond scarcity
+
+In the early 20th century, De Beers controlled roughly 90% of the world's diamond production. Diamonds are not actually rare — they're one of the most common gemstones. But De Beers understood supply and demand better than almost any company in history.
+
+On the supply side, they hoarded diamonds in vaults, releasing only enough to maintain artificially high prices. When new mines were discovered, De Beers bought them or made agreements with the owners to restrict output. On the demand side, they launched the "A Diamond Is Forever" campaign in 1947, successfully linking diamonds to love, commitment, and social status.
+
+By controlling both supply (artificial scarcity) and demand (manufactured desire), De Beers maintained diamond prices at levels that bore no relationship to natural rarity. The strategy worked for nearly a century, demonstrating that supply and demand can be engineered, not just observed.
+
 ## Real-world examples
 
 **Careers.** The supply of people who can write basic Python code has increased enormously. The demand for people who can architect complex distributed systems hasn't kept up with the supply of those who can. Result: coding bootcamp graduates compete on price while systems architects command premiums. Skill value isn't about difficulty — it's about scarcity relative to demand.

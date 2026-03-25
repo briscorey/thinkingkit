@@ -29,6 +29,14 @@ This bias has real costs: complex solutions are harder to implement, maintain, d
 
 The bias is reinforced by professional incentives. Consultants who deliver a 100-page report seem more thorough than those who deliver a one-page answer. The complexity signals effort and expertise, even when it adds no value.
 
+## Case study: How a simple checklist outperformed expert judgment in surgery
+
+In 2009, surgeon Atul Gawande led a WHO study testing a 19-item surgical safety checklist in eight hospitals across eight countries. The checklist was deliberately simple: confirm the patient's identity, mark the surgical site, check for allergies, count instruments before closing.
+
+Many surgeons resisted. These were obvious steps, far too simple for expert professionals. The checklist seemed insulting — it implied that world-class surgeons might forget to check basic things.
+
+The results silenced the critics: complications dropped by 36%, deaths dropped by 47%. A simple checklist outperformed decades of surgical training, not because the surgeons were incompetent, but because complex environments create opportunities for simple errors — and simple systems catch them more reliably than complex expertise.
+
 ## Real-world examples
 
 **Software engineering.** Teams often choose complex microservice architectures when a simple monolith would serve perfectly. The complexity feels more "professional" but adds enormous operational burden.

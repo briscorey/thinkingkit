@@ -29,6 +29,14 @@ The core practice has three steps. First, start with a prior — your current be
 
 The critical discipline is in how much you update. Most people either don't update at all (clinging to their original view regardless of evidence) or update too much (completely flipping their view based on a single data point). Good Bayesian reasoning means proportional updating — neither stubborn nor reactive.
 
+## Case study: How Alan Turing cracked Enigma through systematic updating
+
+During World War II, the German Enigma machine could produce 159 quintillion possible settings. Brute-force code-breaking was impossible. Alan Turing's breakthrough at Bletchley Park was essentially applied Bayesian reasoning at industrial scale.
+
+Turing's team started with prior probabilities — educated guesses about which Enigma settings were being used, based on patterns in German military communication. Each intercepted message provided new evidence that either confirmed or contradicted these priors. Turing built a machine (the Bombe) that systematically tested hypotheses and updated probabilities, eliminating impossible configurations until only the correct one remained.
+
+The critical insight wasn't mathematical genius alone. It was the discipline of treating intelligence analysis as a probabilistic process — starting with priors, updating with evidence, and letting the accumulated updates converge on the truth. Each individual piece of evidence was weak. The systematic updating was what cracked the code.
+
 ## Real-world examples
 
 **Hiring.** Your prior: this candidate is about 50% likely to be a strong hire based on their CV. Evidence 1: they give thoughtful answers in the interview → update to 65%. Evidence 2: their reference is lukewarm → update back to 50%. Evidence 3: their work sample is excellent → update to 75%. Each piece of evidence shifts the estimate, but doesn't determine it alone.
