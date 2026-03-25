@@ -21,4 +21,26 @@ related_models:
   - "base-rate-neglect"
 ---
 
-*Full content coming soon. [Explore all models →](/models/)*
+## How it works
+
+Scope insensitivity (also called scope neglect) is our failure to respond proportionally to the magnitude of a problem. In a classic study, people were willing to pay $80 to save 2,000 birds, $78 to save 20,000 birds, and $88 to save 200,000 birds. A 100x difference in scope produced virtually no difference in response.
+
+The mechanism: we respond to the mental image of the problem, not its scale. One bird covered in oil creates a vivid emotional response. Ten thousand birds covered in oil creates roughly the same response, because the mental image doesn't scale.
+
+## Real-world examples
+
+**Charitable giving.** People donate similar amounts to save 10 lives and 10,000 lives. The emotional response plateaus quickly, even though the stakes differ by three orders of magnitude.
+
+**Risk assessment.** A risk that affects 100 people and a risk that affects 100,000 people feel similarly concerning, leading to misallocation of resources.
+
+## When to use it
+
+Apply scope sensitivity correction whenever you're evaluating problems of different magnitudes. Force yourself to consider the numbers explicitly: "This problem is 100x larger than that one. Am I responding 100x more seriously?"
+
+## Common mistakes
+
+The main mistake is trying to force an emotional response proportional to the numbers. That's cognitively impossible. Instead, use the numbers analytically to guide resource allocation, even when your emotions can't distinguish between scales.
+
+## Try it now
+
+Think of two problems you care about — one affecting thousands and one affecting millions. Are you giving them proportional attention and resources? If not, is that a conscious choice or scope insensitivity at work?
