@@ -1,85 +1,72 @@
 ---
 title: "Occam's Razor"
-one_liner: "Among competing explanations, the simplest one — the one with the fewest assumptions — is usually correct."
-question_hook: "When you have two explanations that fit the facts equally well, why is the simpler one almost always right?"
-description: "Occam's Razor is the principle that when you have multiple explanations for something, you should prefer the one that makes the fewest assumptions."
-icon: "⟋"
+one_liner: "The simplest explanation that fits the evidence is usually the correct one."
+question_hook: "Are you building a complicated theory when a simple one explains the facts just as well?"
+description: "Occam's Razor is a problem-solving principle that says when you have competing hypotheses, prefer the one with the fewest assumptions."
+icon: "✂"
 weight: 7
 difficulty: "Foundation"
 disciplines:
   - "General Thinking"
   - "Philosophy"
-  - "Science"
 usecases:
   - "Solving Problems"
   - "Evaluating Arguments"
 tags:
-  - "reasoning"
+  - "William of Ockham"
   - "simplicity"
+  - "reasoning"
 related_models:
   - "first-principles"
-  - "hanlon's-razor"
+  - "map-is-not-the-territory"
 ---
 
 ## How it works
 
-Named after the 14th-century friar William of Ockham, this principle doesn't say the simplest explanation is always right — it says it's the best starting point. Every additional assumption in an explanation is another place where you could be wrong.
+Named after the 14th-century friar William of Ockham, this principle states: do not multiply entities beyond necessity. In practice, when two explanations account for the same evidence, the simpler one is more likely to be correct — not because the universe prefers simplicity, but because simpler theories have fewer points of potential failure.
 
-Think of it as a probability filter. If explanation A requires two things to be true, and explanation B requires seven things to be true, then — all else being equal — A is more likely. Each assumption carries a risk of being wrong, and those risks multiply.
+Each additional assumption in an explanation is another place where you could be wrong. A theory that requires five assumptions to work has five chances to fail. A theory that requires two has only two.
+
+The razor doesn't say the simplest explanation is always right. It says the simplest explanation is the best starting point.
 
 <div class="visual-box">
-<svg viewBox="0 0 520 200" xmlns="http://www.w3.org/2000/svg" style="max-width:460px;margin:0 auto;">
-  <!-- Simple explanation -->
-  <text x="20" y="30" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="11" font-weight="600">SIMPLE EXPLANATION</text>
-  <rect x="20" y="40" width="90" height="32" rx="6" fill="#0f1a14" stroke="#22c55e" stroke-width="1"/>
-  <text x="65" y="61" text-anchor="middle" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="10">Fact</text>
-  <text x="125" y="61" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="16">→</text>
-  <rect x="145" y="40" width="90" height="32" rx="6" fill="#0f1a14" stroke="#22c55e" stroke-width="1"/>
-  <text x="190" y="61" text-anchor="middle" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="10">Assumption</text>
-  <text x="250" y="61" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="16">→</text>
-  <rect x="270" y="40" width="110" height="32" rx="6" fill="#0f1a14" stroke="#22c55e" stroke-width="1.5"/>
-  <text x="325" y="61" text-anchor="middle" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="10" font-weight="600">Conclusion ✓</text>
-
+<svg viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg" style="max-width:500px; margin:0 auto;">
   <!-- Complex explanation -->
-  <text x="20" y="115" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="11" font-weight="600" opacity="0.7">COMPLEX EXPLANATION</text>
-  <rect x="20" y="125" width="65" height="32" rx="6" fill="#1a1215" stroke="#ef4444" stroke-width="1" opacity="0.6"/>
-  <text x="52" y="146" text-anchor="middle" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="9" opacity="0.7">Fact</text>
-  <text x="95" y="146" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="12" opacity="0.5">→</text>
-  <rect x="105" y="125" width="65" height="32" rx="6" fill="#1a1215" stroke="#ef4444" stroke-width="1" opacity="0.6"/>
-  <text x="137" y="146" text-anchor="middle" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="9" opacity="0.7">Assump. 1</text>
-  <text x="180" y="146" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="12" opacity="0.5">→</text>
-  <rect x="190" y="125" width="65" height="32" rx="6" fill="#1a1215" stroke="#ef4444" stroke-width="1" opacity="0.6"/>
-  <text x="222" y="146" text-anchor="middle" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="9" opacity="0.7">Assump. 2</text>
-  <text x="265" y="146" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="12" opacity="0.5">→</text>
-  <rect x="275" y="125" width="65" height="32" rx="6" fill="#1a1215" stroke="#ef4444" stroke-width="1" opacity="0.6"/>
-  <text x="307" y="146" text-anchor="middle" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="9" opacity="0.7">Assump. 3</text>
-  <text x="350" y="146" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="12" opacity="0.5">→</text>
-  <rect x="360" y="125" width="65" height="32" rx="6" fill="#1a1215" stroke="#ef4444" stroke-width="1" opacity="0.6"/>
-  <text x="392" y="146" text-anchor="middle" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="9" opacity="0.7">Assump. 4</text>
-  <text x="435" y="146" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="12" opacity="0.5">→</text>
-  <rect x="445" y="125" width="65" height="32" rx="6" fill="#1a1215" stroke="#ef4444" stroke-width="1" opacity="0.6"/>
-  <text x="477" y="143" text-anchor="middle" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="9" opacity="0.7">Same conclusion</text>
-  <text x="477" y="153" text-anchor="middle" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="8" opacity="0.5">but fragile</text>
+  <rect x="20" y="20" width="260" height="70" rx="10" fill="#1e2028" stroke="#ef4444" stroke-width="1" opacity="0.7"/>
+  <text x="150" y="45" text-anchor="middle" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="11" font-weight="500">COMPLEX EXPLANATION</text>
+  <text x="150" y="65" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">Assumption + Assumption + Assumption</text>
+  <text x="150" y="80" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">+ Assumption + Assumption</text>
 
-  <!-- Annotation -->
-  <text x="300" y="185" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10" font-style="italic">Each assumption is a place where the chain can break.</text>
+  <!-- Simple explanation -->
+  <rect x="320" y="20" width="260" height="70" rx="10" fill="#15171c" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="450" y="45" text-anchor="middle" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="11" font-weight="500">SIMPLE EXPLANATION</text>
+  <text x="450" y="68" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">Assumption + Assumption</text>
+
+  <!-- Both explain -->
+  <line x1="150" y1="95" x2="300" y2="140" stroke="#2a2d38" stroke-width="1.5"/>
+  <line x1="450" y1="95" x2="300" y2="140" stroke="#2a2d38" stroke-width="1.5"/>
+  <rect x="200" y="130" width="200" height="45" rx="8" fill="#1e2028" stroke="#f59e0b" stroke-width="1"/>
+  <text x="300" y="150" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="11" font-weight="500">Same evidence explained</text>
+  <text x="300" y="167" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">→ Prefer the simpler one</text>
 </svg>
 </div>
 
 ## Real-world examples
 
-**Medical diagnosis.** A patient has a headache and fatigue. Simple explanation: they're dehydrated and underslept. Complex explanation: they have a rare neurological condition that also causes fatigue as a secondary symptom. A good doctor starts with the simple explanation, tests it, and only escalates to complex hypotheses if the simple one fails.
+**Medical diagnosis.** A patient presents with a headache, fatigue, and mild fever. Complex explanation: a rare autoimmune condition affecting the brain. Simple explanation: they have the flu. A good doctor starts with the flu hypothesis and only escalates if the evidence demands it.
 
-**Business.** Your website traffic dropped this week. Simple explanation: you published less content and it was a holiday week. Complex explanation: Google changed its algorithm, your competitors launched a coordinated campaign, and your server response times degraded simultaneously. Start simple.
+**Business.** Your product's sales dropped last month. Complex explanation: a competitor launched a secret campaign, market sentiment shifted, and your brand positioning is misaligned. Simple explanation: you ran out of stock for two weeks. Check the simple things first.
+
+**Debugging code.** A page isn't loading. Complex explanation: there's a race condition in the async rendering pipeline. Simple explanation: there's a typo in the URL. Check the typo first.
 
 ## When to use it
 
-Use Occam's Razor when you have multiple plausible explanations and need to decide which to investigate first, when you're building a plan and it's getting increasingly complicated, when someone presents a conspiracy theory that requires many independent actors to coordinate perfectly, and when debugging — the simplest possible cause should be tested first.
+Use Occam's Razor whenever you're choosing between competing explanations, when you catch yourself building elaborate theories before checking the obvious, and when diagnosing problems — start simple, escalate complexity only when the evidence demands it.
 
 ## Common mistakes
 
-Occam's Razor is a heuristic, not a law. Sometimes reality is genuinely complex. The razor tells you where to start looking, not where to stop. The second mistake is confusing "simple" with "easy to understand." Some correct explanations are simple in structure (few assumptions) but difficult to comprehend (quantum mechanics). Simplicity here means parsimony of assumptions, not ease of understanding.
+The most important mistake is treating it as a law rather than a heuristic. Sometimes the complex explanation really is correct — the world is occasionally surprising. Occam's Razor says start simple, not stay simple. The second mistake is confusing "simple" with "familiar." An unfamiliar explanation can still be simpler than a familiar complex one.
 
 ## Try it now
 
-Think of something that puzzled you recently — a social interaction that felt off, a project that stalled, a market move you didn't expect. Write down two explanations: the simplest possible one and a more elaborate one. Which have you been assuming? Test the simple one first.
+Think of a problem you're currently trying to solve. Write down your current explanation or theory. Now ask: "What's the simplest explanation that accounts for all the evidence?" If it's different from your current theory, what would you need to see to rule it out?
