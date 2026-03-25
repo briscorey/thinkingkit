@@ -71,7 +71,7 @@
           <h3 style="margin:0 0 var(--space-sm);font-family:var(--font-display);color:var(--color-text);">Bias Check</h3>
           <p style="color:var(--color-text-muted);font-size:0.9rem;margin-bottom:var(--space-xl);">Before you commit to a decision, run it through ${biases.length} common cognitive biases. Takes about 3 minutes.</p>
           <label style="display:block;font-size:0.8rem;color:var(--color-text-secondary);margin-bottom:var(--space-sm);font-weight:500;">What decision are you making?</label>
-          <input id="bc-decision" type="text" placeholder="e.g. Accepting the job offer, Investing in X, Launching the feature..." style="width:100%;padding:0.75rem 1rem;background:var(--color-bg-elevated);border:1px solid var(--color-border);border-radius:var(--radius-md);color:var(--color-text);font-family:var(--font-body);font-size:0.95rem;margin-bottom:var(--space-lg);">
+          <input id="bc-decision" type="text" placeholder="e.g. Accepting the job offer, Investing in X, Launching the feature..." style="width:100%;padding:0.75rem 1rem;background:var(--color-bg-warm);border:1px solid var(--color-border);border-radius:var(--radius-md);color:var(--color-text);font-family:var(--font-body);font-size:0.95rem;margin-bottom:var(--space-lg);">
           <button onclick="bcStart()" class="btn btn-primary" style="width:100%;">Run the check</button>
         </div>
       `;
@@ -84,7 +84,7 @@
             <span style="font-size:0.75rem;color:var(--color-text-muted);">${state.current + 1} of ${biases.length}</span>
             ${flagCount() > 0 ? `<span style="font-family:var(--font-mono);font-size:0.75rem;color:var(--color-amber);background:var(--color-amber-glow);padding:0.2rem 0.6rem;border-radius:var(--radius-sm);">${flagCount()} flagged</span>` : ''}
           </div>
-          <div style="height:3px;background:var(--color-bg-elevated);border-radius:2px;margin-bottom:var(--space-xl);overflow:hidden;">
+          <div style="height:3px;background:var(--color-bg-warm);border-radius:2px;margin-bottom:var(--space-xl);overflow:hidden;">
             <div style="height:100%;width:${progress}%;background:var(--color-amber);border-radius:2px;transition:width 0.3s ease;"></div>
           </div>
           <span class="label" style="display:block;margin-bottom:var(--space-md);">${b.name}</span>
@@ -105,11 +105,11 @@
           <p style="color:var(--color-text-muted);font-size:0.9rem;margin-bottom:var(--space-lg);">Decision: <em>${state.decision}</em></p>
 
           <div style="display:flex;gap:var(--space-lg);margin-bottom:var(--space-xl);flex-wrap:wrap;">
-            <div style="text-align:center;flex:1;min-width:120px;padding:var(--space-lg);background:var(--color-bg-elevated);border-radius:var(--radius-md);">
+            <div style="text-align:center;flex:1;min-width:120px;padding:var(--space-lg);background:var(--color-bg-warm);border-radius:var(--radius-md);">
               <div style="font-family:var(--font-display);font-size:2rem;color:${flagged.length > 3 ? 'var(--color-red)' : flagged.length > 1 ? 'var(--color-amber)' : 'var(--color-green)'};">${flagged.length}</div>
               <div style="font-size:0.75rem;color:var(--color-text-muted);">biases flagged</div>
             </div>
-            <div style="text-align:center;flex:1;min-width:120px;padding:var(--space-lg);background:var(--color-bg-elevated);border-radius:var(--radius-md);">
+            <div style="text-align:center;flex:1;min-width:120px;padding:var(--space-lg);background:var(--color-bg-warm);border-radius:var(--radius-md);">
               <div style="font-family:var(--font-display);font-size:2rem;color:var(--color-green);">${clear.length}</div>
               <div style="font-size:0.75rem;color:var(--color-text-muted);">clear</div>
             </div>
@@ -118,7 +118,7 @@
           ${flagged.length > 0 ? `
             <h4 style="font-family:var(--font-display);font-size:1rem;margin-bottom:var(--space-md);color:var(--color-amber);">Watch out for:</h4>
             ${flagged.map(b => `
-              <div style="background:var(--color-bg-elevated);border-radius:var(--radius-md);padding:var(--space-lg);margin-bottom:var(--space-md);border-left:3px solid var(--color-amber);">
+              <div style="background:var(--color-bg-warm);border-radius:var(--radius-md);padding:var(--space-lg);margin-bottom:var(--space-md);border-left:3px solid var(--color-amber);">
                 <p style="font-weight:600;color:var(--color-text);font-size:0.9rem;margin-bottom:var(--space-xs);">${b.name}</p>
                 <p style="color:var(--color-text-secondary);font-size:0.85rem;margin-bottom:var(--space-sm);">${b.debrief}</p>
                 <p style="color:var(--color-amber);font-size:0.82rem;margin:0;"><strong>Antidote:</strong> ${b.antidote}</p>

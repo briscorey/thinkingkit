@@ -32,22 +32,22 @@ The razor doesn't say the simplest explanation is always right. It says the simp
 <div class="visual-box">
 <svg viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg" style="max-width:500px; margin:0 auto;">
   <!-- Complex explanation -->
-  <rect x="20" y="20" width="260" height="70" rx="10" fill="#1e2028" stroke="#ef4444" stroke-width="1" opacity="0.7"/>
+  <rect x="20" y="20" width="260" height="70" rx="10" fill="#F4F1EC" stroke="#ef4444" stroke-width="1" opacity="0.7"/>
   <text x="150" y="45" text-anchor="middle" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="11" font-weight="500">COMPLEX EXPLANATION</text>
-  <text x="150" y="65" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">Assumption + Assumption + Assumption</text>
-  <text x="150" y="80" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">+ Assumption + Assumption</text>
+  <text x="150" y="65" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="10">Assumption + Assumption + Assumption</text>
+  <text x="150" y="80" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="10">+ Assumption + Assumption</text>
 
   <!-- Simple explanation -->
-  <rect x="320" y="20" width="260" height="70" rx="10" fill="#15171c" stroke="#22c55e" stroke-width="1.5"/>
+  <rect x="320" y="20" width="260" height="70" rx="10" fill="#FFFFFF" stroke="#22c55e" stroke-width="1.5"/>
   <text x="450" y="45" text-anchor="middle" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="11" font-weight="500">SIMPLE EXPLANATION</text>
-  <text x="450" y="68" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">Assumption + Assumption</text>
+  <text x="450" y="68" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="10">Assumption + Assumption</text>
 
   <!-- Both explain -->
-  <line x1="150" y1="95" x2="300" y2="140" stroke="#2a2d38" stroke-width="1.5"/>
-  <line x1="450" y1="95" x2="300" y2="140" stroke="#2a2d38" stroke-width="1.5"/>
-  <rect x="200" y="130" width="200" height="45" rx="8" fill="#1e2028" stroke="#f59e0b" stroke-width="1"/>
-  <text x="300" y="150" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="11" font-weight="500">Same evidence explained</text>
-  <text x="300" y="167" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">→ Prefer the simpler one</text>
+  <line x1="150" y1="95" x2="300" y2="140" stroke="#E2DDD5" stroke-width="1.5"/>
+  <line x1="450" y1="95" x2="300" y2="140" stroke="#E2DDD5" stroke-width="1.5"/>
+  <rect x="200" y="130" width="200" height="45" rx="8" fill="#F4F1EC" stroke="#E8523F" stroke-width="1"/>
+  <text x="300" y="150" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="11" font-weight="500">Same evidence explained</text>
+  <text x="300" y="167" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="10">→ Prefer the simpler one</text>
 </svg>
 </div>
 

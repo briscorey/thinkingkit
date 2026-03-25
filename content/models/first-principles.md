@@ -32,31 +32,31 @@ The process follows three phases. First, identify your assumptions about the pro
 <div class="visual-box">
 <svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg" style="max-width:520px; margin:0 auto;">
   <!-- Assumption layer (top, being broken) -->
-  <rect x="50" y="20" width="500" height="50" rx="8" fill="#1e2028" stroke="#ef4444" stroke-width="1" stroke-dasharray="6,4" opacity="0.6"/>
+  <rect x="50" y="20" width="500" height="50" rx="8" fill="#F4F1EC" stroke="#ef4444" stroke-width="1" stroke-dasharray="6,4" opacity="0.6"/>
   <text x="300" y="50" text-anchor="middle" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="12" opacity="0.8">ASSUMPTIONS & CONVENTIONS</text>
   <line x1="200" y1="20" x2="220" y2="70" stroke="#ef4444" stroke-width="1.5" opacity="0.4"/>
   <line x1="400" y1="20" x2="380" y2="70" stroke="#ef4444" stroke-width="1.5" opacity="0.4"/>
 
   <!-- Arrow down -->
-  <text x="300" y="100" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="11" font-weight="600">DECOMPOSE ↓</text>
+  <text x="300" y="100" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="11" font-weight="600">DECOMPOSE ↓</text>
 
   <!-- Fundamental truths (middle) -->
-  <rect x="80" y="120" width="130" height="40" rx="8" fill="#15171c" stroke="#f59e0b" stroke-width="1.5"/>
-  <text x="145" y="145" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="11">Truth 1</text>
+  <rect x="80" y="120" width="130" height="40" rx="8" fill="#FFFFFF" stroke="#E8523F" stroke-width="1.5"/>
+  <text x="145" y="145" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="11">Truth 1</text>
 
-  <rect x="235" y="120" width="130" height="40" rx="8" fill="#15171c" stroke="#f59e0b" stroke-width="1.5"/>
-  <text x="300" y="145" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="11">Truth 2</text>
+  <rect x="235" y="120" width="130" height="40" rx="8" fill="#FFFFFF" stroke="#E8523F" stroke-width="1.5"/>
+  <text x="300" y="145" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="11">Truth 2</text>
 
-  <rect x="390" y="120" width="130" height="40" rx="8" fill="#15171c" stroke="#f59e0b" stroke-width="1.5"/>
-  <text x="455" y="145" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="11">Truth 3</text>
+  <rect x="390" y="120" width="130" height="40" rx="8" fill="#FFFFFF" stroke="#E8523F" stroke-width="1.5"/>
+  <text x="455" y="145" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="11">Truth 3</text>
 
   <!-- Arrow down -->
   <text x="300" y="195" text-anchor="middle" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="11" font-weight="600">REBUILD ↓</text>
 
   <!-- New solution -->
-  <rect x="120" y="215" width="360" height="55" rx="10" fill="#0f1a14" stroke="#22c55e" stroke-width="1.5"/>
+  <rect x="120" y="215" width="360" height="55" rx="10" fill="#F0FAF8" stroke="#22c55e" stroke-width="1.5"/>
   <text x="300" y="240" text-anchor="middle" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="13" font-weight="500">Original solution</text>
-  <text x="300" y="258" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="11">Built from fundamental truths, not borrowed conventions</text>
+  <text x="300" y="258" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="11">Built from fundamental truths, not borrowed conventions</text>
 </svg>
 </div>
 

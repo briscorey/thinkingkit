@@ -31,17 +31,17 @@
     <div class="nav-inner">
       <a href="/" class="nav-brand">
         <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <line x1="50" y1="20" x2="25" y2="45" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
-          <line x1="50" y1="20" x2="75" y2="45" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
-          <line x1="25" y1="45" x2="35" y2="80" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
-          <line x1="75" y1="45" x2="65" y2="80" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
-          <line x1="35" y1="80" x2="65" y2="80" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
-          <line x1="25" y1="45" x2="75" y2="45" stroke="#f59e0b" stroke-width="1.5" opacity="0.3"/>
-          <circle cx="50" cy="20" r="5.5" fill="#f59e0b"/>
-          <circle cx="25" cy="45" r="5.5" fill="#f59e0b"/>
-          <circle cx="75" cy="45" r="5.5" fill="#f59e0b"/>
-          <circle cx="35" cy="80" r="5.5" fill="#f59e0b"/>
-          <circle cx="65" cy="80" r="5.5" fill="#f59e0b"/>
+          <line x1="50" y1="20" x2="25" y2="45" stroke="#E8523F" stroke-width="2.5" opacity="0.5"/>
+          <line x1="50" y1="20" x2="75" y2="45" stroke="#E8523F" stroke-width="2.5" opacity="0.5"/>
+          <line x1="25" y1="45" x2="35" y2="80" stroke="#E8523F" stroke-width="2.5" opacity="0.5"/>
+          <line x1="75" y1="45" x2="65" y2="80" stroke="#E8523F" stroke-width="2.5" opacity="0.5"/>
+          <line x1="35" y1="80" x2="65" y2="80" stroke="#E8523F" stroke-width="2.5" opacity="0.5"/>
+          <line x1="25" y1="45" x2="75" y2="45" stroke="#E8523F" stroke-width="1.5" opacity="0.25"/>
+          <circle cx="50" cy="20" r="5" fill="#E8523F"/>
+          <circle cx="25" cy="45" r="5" fill="#E8523F"/>
+          <circle cx="75" cy="45" r="5" fill="#E8523F"/>
+          <circle cx="35" cy="80" r="5" fill="#E8523F"/>
+          <circle cx="65" cy="80" r="5" fill="#E8523F"/>
         </svg>
         ThinkingKit
       </a>
@@ -73,7 +73,7 @@
     });
   </script>
   <!-- Search overlay -->
-  <div id="search-overlay" style="display:none;position:fixed;inset:0;z-index:200;background:rgba(9,10,12,0.92);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);padding:15vh 1.5rem 2rem;" onclick="if(event.target===this)toggleSearch()">
+  <div id="search-overlay" style="display:none;position:fixed;inset:0;z-index:200;background:rgba(250,248,245,0.94);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);padding:15vh 1.5rem 2rem;" onclick="if(event.target===this)toggleSearch()">
     <div style="max-width:600px;margin:0 auto;">
       <div id="search-container"></div>
     </div>
@@ -89,13 +89,12 @@
         if (!searchInit) {
           new PagefindUI({ element: '#search-container', showSubResults: true, showImages: false });
           searchInit = true;
-          // Style overrides for dark theme
           const style = document.createElement('style');
           style.textContent = `
-            .pagefind-ui--reset { --pagefind-ui-text: #e8e9ed !important; --pagefind-ui-background: #15171c !important; --pagefind-ui-border: #2a2d38 !important; --pagefind-ui-primary: #f59e0b !important; --pagefind-ui-tag: #f59e0b !important; }
-            .pagefind-ui .pagefind-ui__search-input { font-family: 'DM Sans', sans-serif !important; font-size: 1.1rem !important; border-radius: 10px !important; }
-            .pagefind-ui .pagefind-ui__result-link { color: #f59e0b !important; }
-            .pagefind-ui .pagefind-ui__result-excerpt { color: #9ea1ad !important; }
+            .pagefind-ui--reset { --pagefind-ui-text: #1A1D2B !important; --pagefind-ui-background: #fff !important; --pagefind-ui-border: #E2DDD5 !important; --pagefind-ui-primary: #E8523F !important; --pagefind-ui-tag: #E8523F !important; }
+            .pagefind-ui .pagefind-ui__search-input { font-family: 'Satoshi', sans-serif !important; font-size: 1.1rem !important; border-radius: 10px !important; box-shadow: 0 4px 16px rgba(26,29,43,0.06) !important; }
+            .pagefind-ui .pagefind-ui__result-link { color: #E8523F !important; }
+            .pagefind-ui .pagefind-ui__result-excerpt { color: #4A4D5C !important; }
           `;
           document.head.appendChild(style);
         }

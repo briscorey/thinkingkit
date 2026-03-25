@@ -37,38 +37,38 @@ The process has three steps. First, define what you're trying to achieve. Second
 <svg viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg" style="max-width:500px; margin:0 auto;">
   <defs>
     <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#f59e0b"/>
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#E8523F"/>
     </marker>
   </defs>
   <!-- Forward -->
-  <rect x="20" y="30" width="160" height="60" rx="10" fill="#1e2028" stroke="#2a2d38" stroke-width="1.5"/>
-  <text x="100" y="55" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="11" font-weight="500">FORWARD THINKING</text>
-  <text x="100" y="75" text-anchor="middle" fill="#e8e9ed" font-family="Newsreader, serif" font-size="14">"How do I succeed?"</text>
+  <rect x="20" y="30" width="160" height="60" rx="10" fill="#F4F1EC" stroke="#E2DDD5" stroke-width="1.5"/>
+  <text x="100" y="55" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="11" font-weight="500">FORWARD THINKING</text>
+  <text x="100" y="75" text-anchor="middle" fill="#1A1D2B" font-family="Newsreader, serif" font-size="14">"How do I succeed?"</text>
   <!-- Arrow down -->
-  <line x1="100" y1="95" x2="100" y2="125" stroke="#2a2d38" stroke-width="1.5"/>
+  <line x1="100" y1="95" x2="100" y2="125" stroke="#E2DDD5" stroke-width="1.5"/>
   <!-- Hard -->
-  <rect x="40" y="130" width="120" height="36" rx="8" fill="#1a1215" stroke="#ef4444" stroke-width="1" opacity="0.7"/>
+  <rect x="40" y="130" width="120" height="36" rx="8" fill="#FFF0EE" stroke="#ef4444" stroke-width="1" opacity="0.7"/>
   <text x="100" y="153" text-anchor="middle" fill="#ef4444" font-family="DM Sans, sans-serif" font-size="12">Hard to answer</text>
 
   <!-- Arrow between -->
-  <line x1="200" y1="140" x2="380" y2="140" stroke="#f59e0b" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="6,4"/>
-  <text x="290" y="133" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="11" font-weight="600">INVERT</text>
+  <line x1="200" y1="140" x2="380" y2="140" stroke="#E8523F" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="6,4"/>
+  <text x="290" y="133" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="11" font-weight="600">INVERT</text>
 
   <!-- Inverted -->
-  <rect x="400" y="30" width="180" height="60" rx="10" fill="#1e2028" stroke="#f59e0b" stroke-width="1.5"/>
-  <text x="490" y="55" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="11" font-weight="500">INVERTED THINKING</text>
-  <text x="490" y="75" text-anchor="middle" fill="#e8e9ed" font-family="Newsreader, serif" font-size="14">"What guarantees failure?"</text>
+  <rect x="400" y="30" width="180" height="60" rx="10" fill="#F4F1EC" stroke="#E8523F" stroke-width="1.5"/>
+  <text x="490" y="55" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="11" font-weight="500">INVERTED THINKING</text>
+  <text x="490" y="75" text-anchor="middle" fill="#1A1D2B" font-family="Newsreader, serif" font-size="14">"What guarantees failure?"</text>
   <!-- Arrow down -->
-  <line x1="490" y1="95" x2="490" y2="125" stroke="#2a2d38" stroke-width="1.5"/>
+  <line x1="490" y1="95" x2="490" y2="125" stroke="#E2DDD5" stroke-width="1.5"/>
   <!-- Easy -->
-  <rect x="420" y="130" width="140" height="36" rx="8" fill="#0f1a14" stroke="#22c55e" stroke-width="1" opacity="0.7"/>
+  <rect x="420" y="130" width="140" height="36" rx="8" fill="#F0FAF8" stroke="#22c55e" stroke-width="1" opacity="0.7"/>
   <text x="490" y="153" text-anchor="middle" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="12">Easier to answer</text>
 
   <!-- Bottom: Avoid -->
-  <line x1="490" y1="170" x2="490" y2="210" stroke="#2a2d38" stroke-width="1.5"/>
-  <rect x="380" y="215" width="220" height="45" rx="10" fill="#15171c" stroke="#f59e0b" stroke-width="1.5"/>
-  <text x="490" y="238" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="12" font-weight="500">Then avoid those things.</text>
-  <text x="490" y="253" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="11">Success by subtraction.</text>
+  <line x1="490" y1="170" x2="490" y2="210" stroke="#E2DDD5" stroke-width="1.5"/>
+  <rect x="380" y="215" width="220" height="45" rx="10" fill="#FFFFFF" stroke="#E8523F" stroke-width="1.5"/>
+  <text x="490" y="238" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="12" font-weight="500">Then avoid those things.</text>
+  <text x="490" y="253" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="11">Success by subtraction.</text>
 </svg>
 </div>
 

@@ -34,26 +34,26 @@ Most real-world situations are shaped by multiple feedback loops operating simul
 <div class="visual-box">
 <svg viewBox="0 0 600 220" xmlns="http://www.w3.org/2000/svg" style="max-width:520px; margin:0 auto;">
   <!-- Reinforcing loop -->
-  <text x="150" y="20" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="12" font-weight="600">REINFORCING LOOP</text>
-  <text x="150" y="36" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">Amplifies change</text>
-  <ellipse cx="150" cy="120" rx="100" ry="65" fill="none" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="6,3"/>
-  <text x="150" y="85" text-anchor="middle" fill="#e8e9ed" font-family="DM Sans, sans-serif" font-size="11">More users</text>
-  <text x="225" y="120" text-anchor="middle" fill="#e8e9ed" font-family="DM Sans, sans-serif" font-size="11" transform="rotate(15,225,120)">→</text>
-  <text x="150" y="140" text-anchor="middle" fill="#e8e9ed" font-family="DM Sans, sans-serif" font-size="11">More content</text>
-  <text x="75" y="120" text-anchor="middle" fill="#e8e9ed" font-family="DM Sans, sans-serif" font-size="11" transform="rotate(-15,75,120)">→</text>
-  <text x="150" y="110" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="18">⟳</text>
-  <text x="150" y="195" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">Growth spiral</text>
+  <text x="150" y="20" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="12" font-weight="600">REINFORCING LOOP</text>
+  <text x="150" y="36" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="10">Amplifies change</text>
+  <ellipse cx="150" cy="120" rx="100" ry="65" fill="none" stroke="#E8523F" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="150" y="85" text-anchor="middle" fill="#1A1D2B" font-family="DM Sans, sans-serif" font-size="11">More users</text>
+  <text x="225" y="120" text-anchor="middle" fill="#1A1D2B" font-family="DM Sans, sans-serif" font-size="11" transform="rotate(15,225,120)">→</text>
+  <text x="150" y="140" text-anchor="middle" fill="#1A1D2B" font-family="DM Sans, sans-serif" font-size="11">More content</text>
+  <text x="75" y="120" text-anchor="middle" fill="#1A1D2B" font-family="DM Sans, sans-serif" font-size="11" transform="rotate(-15,75,120)">→</text>
+  <text x="150" y="110" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="18">⟳</text>
+  <text x="150" y="195" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="10">Growth spiral</text>
 
   <!-- Balancing loop -->
   <text x="450" y="20" text-anchor="middle" fill="#14b8a6" font-family="DM Sans, sans-serif" font-size="12" font-weight="600">BALANCING LOOP</text>
-  <text x="450" y="36" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">Resists change</text>
+  <text x="450" y="36" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="10">Resists change</text>
   <ellipse cx="450" cy="120" rx="100" ry="65" fill="none" stroke="#14b8a6" stroke-width="1.5" stroke-dasharray="6,3"/>
-  <text x="450" y="85" text-anchor="middle" fill="#e8e9ed" font-family="DM Sans, sans-serif" font-size="11">Too hot</text>
-  <text x="525" y="120" text-anchor="middle" fill="#e8e9ed" font-family="DM Sans, sans-serif" font-size="11" transform="rotate(15,525,120)">→</text>
-  <text x="450" y="140" text-anchor="middle" fill="#e8e9ed" font-family="DM Sans, sans-serif" font-size="11">AC turns on</text>
-  <text x="375" y="120" text-anchor="middle" fill="#e8e9ed" font-family="DM Sans, sans-serif" font-size="11" transform="rotate(-15,375,120)">→</text>
+  <text x="450" y="85" text-anchor="middle" fill="#1A1D2B" font-family="DM Sans, sans-serif" font-size="11">Too hot</text>
+  <text x="525" y="120" text-anchor="middle" fill="#1A1D2B" font-family="DM Sans, sans-serif" font-size="11" transform="rotate(15,525,120)">→</text>
+  <text x="450" y="140" text-anchor="middle" fill="#1A1D2B" font-family="DM Sans, sans-serif" font-size="11">AC turns on</text>
+  <text x="375" y="120" text-anchor="middle" fill="#1A1D2B" font-family="DM Sans, sans-serif" font-size="11" transform="rotate(-15,375,120)">→</text>
   <text x="450" y="110" text-anchor="middle" fill="#14b8a6" font-family="DM Sans, sans-serif" font-size="18">⟲</text>
-  <text x="450" y="195" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">Stability seeker</text>
+  <text x="450" y="195" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="10">Stability seeker</text>
 </svg>
 </div>
 

@@ -35,41 +35,41 @@ The practice is straightforward. For any decision, map out the immediate consequ
 <div class="visual-box">
 <svg viewBox="0 0 600 240" xmlns="http://www.w3.org/2000/svg" style="max-width:540px; margin:0 auto;">
   <!-- Decision -->
-  <rect x="230" y="10" width="140" height="40" rx="8" fill="#15171c" stroke="#f59e0b" stroke-width="1.5"/>
-  <text x="300" y="35" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="12" font-weight="500">Your Decision</text>
+  <rect x="230" y="10" width="140" height="40" rx="8" fill="#FFFFFF" stroke="#E8523F" stroke-width="1.5"/>
+  <text x="300" y="35" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="12" font-weight="500">Your Decision</text>
 
   <!-- Lines to first order -->
-  <line x1="270" y1="50" x2="130" y2="90" stroke="#2a2d38" stroke-width="1.5"/>
-  <line x1="300" y1="50" x2="300" y2="90" stroke="#2a2d38" stroke-width="1.5"/>
-  <line x1="330" y1="50" x2="470" y2="90" stroke="#2a2d38" stroke-width="1.5"/>
+  <line x1="270" y1="50" x2="130" y2="90" stroke="#E2DDD5" stroke-width="1.5"/>
+  <line x1="300" y1="50" x2="300" y2="90" stroke="#E2DDD5" stroke-width="1.5"/>
+  <line x1="330" y1="50" x2="470" y2="90" stroke="#E2DDD5" stroke-width="1.5"/>
 
   <!-- First-order effects -->
-  <text x="300" y="82" text-anchor="middle" fill="#9ea1ad" font-family="DM Sans, sans-serif" font-size="10">1ST ORDER — obvious</text>
-  <rect x="60" y="92" width="140" height="36" rx="6" fill="#1e2028" stroke="#2a2d38" stroke-width="1"/>
-  <text x="130" y="115" text-anchor="middle" fill="#e8e9ed" font-family="DM Sans, sans-serif" font-size="11">Effect A</text>
-  <rect x="230" y="92" width="140" height="36" rx="6" fill="#1e2028" stroke="#2a2d38" stroke-width="1"/>
-  <text x="300" y="115" text-anchor="middle" fill="#e8e9ed" font-family="DM Sans, sans-serif" font-size="11">Effect B</text>
-  <rect x="400" y="92" width="140" height="36" rx="6" fill="#1e2028" stroke="#2a2d38" stroke-width="1"/>
-  <text x="470" y="115" text-anchor="middle" fill="#e8e9ed" font-family="DM Sans, sans-serif" font-size="11">Effect C</text>
+  <text x="300" y="82" text-anchor="middle" fill="#4A4D5C" font-family="DM Sans, sans-serif" font-size="10">1ST ORDER — obvious</text>
+  <rect x="60" y="92" width="140" height="36" rx="6" fill="#F4F1EC" stroke="#E2DDD5" stroke-width="1"/>
+  <text x="130" y="115" text-anchor="middle" fill="#1A1D2B" font-family="DM Sans, sans-serif" font-size="11">Effect A</text>
+  <rect x="230" y="92" width="140" height="36" rx="6" fill="#F4F1EC" stroke="#E2DDD5" stroke-width="1"/>
+  <text x="300" y="115" text-anchor="middle" fill="#1A1D2B" font-family="DM Sans, sans-serif" font-size="11">Effect B</text>
+  <rect x="400" y="92" width="140" height="36" rx="6" fill="#F4F1EC" stroke="#E2DDD5" stroke-width="1"/>
+  <text x="470" y="115" text-anchor="middle" fill="#1A1D2B" font-family="DM Sans, sans-serif" font-size="11">Effect C</text>
 
   <!-- Lines to second order -->
-  <line x1="100" y1="128" x2="60" y2="170" stroke="#f59e0b" stroke-width="1.5" opacity="0.6"/>
-  <line x1="160" y1="128" x2="190" y2="170" stroke="#f59e0b" stroke-width="1.5" opacity="0.6"/>
-  <line x1="300" y1="128" x2="320" y2="170" stroke="#f59e0b" stroke-width="1.5" opacity="0.6"/>
-  <line x1="470" y1="128" x2="450" y2="170" stroke="#f59e0b" stroke-width="1.5" opacity="0.6"/>
-  <line x1="470" y1="128" x2="540" y2="170" stroke="#f59e0b" stroke-width="1.5" opacity="0.6"/>
+  <line x1="100" y1="128" x2="60" y2="170" stroke="#E8523F" stroke-width="1.5" opacity="0.6"/>
+  <line x1="160" y1="128" x2="190" y2="170" stroke="#E8523F" stroke-width="1.5" opacity="0.6"/>
+  <line x1="300" y1="128" x2="320" y2="170" stroke="#E8523F" stroke-width="1.5" opacity="0.6"/>
+  <line x1="470" y1="128" x2="450" y2="170" stroke="#E8523F" stroke-width="1.5" opacity="0.6"/>
+  <line x1="470" y1="128" x2="540" y2="170" stroke="#E8523F" stroke-width="1.5" opacity="0.6"/>
 
   <!-- Second-order effects -->
-  <text x="300" y="164" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="10" font-weight="600">2ND ORDER — hidden leverage</text>
-  <rect x="10" y="175" width="110" height="36" rx="6" fill="#15171c" stroke="#f59e0b" stroke-width="1"/>
-  <text x="65" y="198" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="10">A → surprise</text>
-  <rect x="140" y="175" width="110" height="36" rx="6" fill="#15171c" stroke="#f59e0b" stroke-width="1"/>
-  <text x="195" y="198" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="10">A → risk</text>
-  <rect x="270" y="175" width="110" height="36" rx="6" fill="#15171c" stroke="#f59e0b" stroke-width="1"/>
-  <text x="325" y="198" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="10">B → opportunity</text>
-  <rect x="400" y="175" width="100" height="36" rx="6" fill="#15171c" stroke="#f59e0b" stroke-width="1"/>
-  <text x="450" y="198" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, sans-serif" font-size="10">C → cost</text>
-  <rect x="510" y="175" width="80" height="36" rx="6" fill="#0f1a14" stroke="#22c55e" stroke-width="1"/>
+  <text x="300" y="164" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="10" font-weight="600">2ND ORDER — hidden leverage</text>
+  <rect x="10" y="175" width="110" height="36" rx="6" fill="#FFFFFF" stroke="#E8523F" stroke-width="1"/>
+  <text x="65" y="198" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="10">A → surprise</text>
+  <rect x="140" y="175" width="110" height="36" rx="6" fill="#FFFFFF" stroke="#E8523F" stroke-width="1"/>
+  <text x="195" y="198" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="10">A → risk</text>
+  <rect x="270" y="175" width="110" height="36" rx="6" fill="#FFFFFF" stroke="#E8523F" stroke-width="1"/>
+  <text x="325" y="198" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="10">B → opportunity</text>
+  <rect x="400" y="175" width="100" height="36" rx="6" fill="#FFFFFF" stroke="#E8523F" stroke-width="1"/>
+  <text x="450" y="198" text-anchor="middle" fill="#E8523F" font-family="DM Sans, sans-serif" font-size="10">C → cost</text>
+  <rect x="510" y="175" width="80" height="36" rx="6" fill="#F0FAF8" stroke="#22c55e" stroke-width="1"/>
   <text x="550" y="198" text-anchor="middle" fill="#22c55e" font-family="DM Sans, sans-serif" font-size="10">C → win</text>
 </svg>
 </div>

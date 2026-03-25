@@ -59,7 +59,7 @@
                     <input value="${c.name}" onchange="dmRenameCriteria(${ci},this.value)" style="background:transparent;border:none;color:var(--color-text-secondary);font-family:var(--font-body);font-size:0.88rem;width:100%;">
                   </td>
                   <td style="text-align:center;padding:0.6rem;border-bottom:1px solid var(--color-border-subtle);">
-                    <select onchange="dmSetWeight(${ci},this.value)" style="background:var(--color-bg-elevated);border:1px solid var(--color-border);border-radius:var(--radius-sm);padding:0.25rem;color:var(--color-amber);text-align:center;font-family:var(--font-mono);font-size:0.8rem;">
+                    <select onchange="dmSetWeight(${ci},this.value)" style="background:var(--color-bg-warm);border:1px solid var(--color-border);border-radius:var(--radius-sm);padding:0.25rem;color:var(--color-amber);text-align:center;font-family:var(--font-mono);font-size:0.8rem;">
                       ${[1,2,3,4,5].map(w => `<option value="${w}" ${c.weight===w?'selected':''}>${w}</option>`).join('')}
                     </select>
                   </td>
@@ -96,7 +96,7 @@
           ${state.options.map((o, oi) => `
             <div style="display:flex;align-items:center;gap:var(--space-md);margin-bottom:var(--space-sm);">
               <span style="min-width:80px;font-size:0.85rem;color:${oi===winner?'var(--color-amber)':'var(--color-text-secondary)'};">${o}</span>
-              <div style="flex:1;height:24px;background:var(--color-bg-elevated);border-radius:var(--radius-sm);overflow:hidden;">
+              <div style="flex:1;height:24px;background:var(--color-bg-warm);border-radius:var(--radius-sm);overflow:hidden;">
                 <div style="height:100%;width:${(totals[oi]/maxWeight())*100}%;background:${oi===winner?'var(--color-amber)':'var(--color-border)'};border-radius:var(--radius-sm);transition:width 0.3s ease;"></div>
               </div>
               <span style="font-family:var(--font-mono);font-size:0.8rem;color:var(--color-text-muted);min-width:40px;text-align:right;">${Math.round((totals[oi]/maxWeight())*100)}%</span>
