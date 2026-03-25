@@ -48,6 +48,10 @@ enableGitInfo = true
     name = "Downloads"
     url = "/downloads/"
     weight = 5
+  [[menu.main]]
+    name = "Educators"
+    url = "/educators/"
+    weight = 6
 
 [outputs]
   home = ["HTML", "RSS"]
