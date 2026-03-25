@@ -1,54 +1,46 @@
 ---
 title: "Start Here"
-description: "New to mental models? This is your starting point. A curated path through the 10 most essential thinking frameworks."
+description: "New to mental models? This page tells you exactly where to begin and how to get the most from ThinkingKit."
 ---
 
 ## What are mental models?
 
-Mental models are thinking tools — repeatable frameworks that help you understand problems, spot mistakes, and make better decisions. They come from physics, economics, psychology, biology, philosophy, and military strategy. The most effective thinkers don't rely on one framework — they carry a toolkit of many and reach for the right one depending on the situation.
+Mental models are thinking frameworks — repeatable patterns of reasoning that help you understand problems, make decisions, and avoid mistakes. They're the tools your brain uses to process the world. Everyone already has mental models. The question is whether yours are deliberate and effective, or unconscious and full of blind spots.
 
-Charlie Munger calls this a "latticework of mental models." The more models you carry, the more angles you can see a problem from, and the better your decisions become.
+The world's best thinkers — Charlie Munger, Elon Musk, Daniel Kahneman, Ray Dalio — don't just know more facts. They have better models. ThinkingKit is a free library of the most powerful ones, with interactive tools to help you actually use them.
 
-## The essential ten
+## Where to begin
 
-If you're new here, start with these ten models in order. Each one builds on the previous ones, and together they form a foundation for clearer thinking.
+**If you have 5 minutes:** Read [Inversion](/models/inversion/). It's the model with the highest return on investment — you'll start using it immediately.
 
-### 1. [Inversion](/models/inversion/)
-The most immediately useful model. Instead of asking "how do I succeed?", ask "what would guarantee failure?" — then avoid those things. This single reframe will improve every plan you make.
+**If you have 30 minutes:** Work through the [Foundations learning path](/learn/foundations/) — 10 essential models in the order that builds understanding most efficiently.
 
-### 2. [First Principles Thinking](/models/first-principles/)
-Strip away assumptions and conventions to find what's fundamentally true, then rebuild your understanding from there. This is how you generate original solutions instead of copying conventional ones.
+**If you have a specific problem:** Use the [Thinking Toolkit Matcher](/tools/toolkit-matcher/). Describe your situation, get matched to the models that fit.
 
-### 3. [Second-Order Thinking](/models/second-order-thinking/)
-Don't just ask "what happens next?" — ask "and then what?" Most bad decisions come from ignoring the consequences of consequences.
+**If you want to practice:** Try the interactive tools — the [Decision Matrix](/tools/decision-matrix/), [Pre-Mortem Generator](/tools/pre-mortem/), or [Bias Check](/tools/bias-check/).
 
-### 4. [The Map Is Not the Territory](/models/map-is-not-the-territory/)
-Every model (including the ones on this page) is a simplification of reality. Never confuse your mental map with the actual terrain. Hold your models lightly and update them when reality sends signals.
+**If you want to go deep:** Read about [Model Chains](/learn/model-chains/) — how to combine multiple models in sequence for specific outcomes.
 
-### 5. [Circle of Competence](/models/circle-of-competence/)
-Know what you know, know what you don't, and be ruthlessly honest about the boundary. Most catastrophic decisions happen when people act outside their circle without realising it.
+## How to actually learn a mental model
 
-### 6. [Probabilistic Thinking](/models/probabilistic-thinking/)
-Replace "it will happen" / "it won't happen" with "there's a 70% chance." Thinking in probabilities is the single biggest upgrade for decision-making under uncertainty.
+Reading about a model is not learning it. Here's what works:
 
-### 7. [Confirmation Bias](/models/confirmation-bias/)
-You instinctively seek information that confirms what you already believe. Knowing this doesn't make you immune — but it lets you build habits to counteract it.
+**Step 1: Understand.** Read the model page. Pay attention to the "How it works" section and the visual explanation.
 
-### 8. [Feedback Loops](/models/feedback-loops/)
-Everything operates in loops — reinforcing (amplifying) or balancing (stabilising). Understanding which loops drive a system is the key to understanding the system itself.
+**Step 2: Recognise.** Look for the model in your daily life. Where has this pattern appeared before?
 
-### 9. [Opportunity Cost](/models/opportunity-cost/)
-The true cost of anything is what you give up to get it. Every yes is an implicit no to something else. Most people calculate explicit costs but forget implicit ones.
+**Step 3: Apply.** Use the "Try it now" exercise at the bottom of each model page. Apply the model to a real situation you're facing right now.
 
-### 10. [Pre-Mortem](/models/pre-mortem/)
-Before starting a project, imagine it has already failed. Work backwards to identify why. This simple technique surfaces risks that optimism bias hides.
+**Step 4: Reflect.** After applying the model, ask: "Did this change how I think about the problem?" If yes, the model is now part of your toolkit.
 
-## What to do next
+## Explore by interest
 
-After the essential ten, explore by interest. Browse the [full model library](/models/) or try one of the [interactive tools](/tools/) to apply what you've learned to a real decision.
+**Making better decisions →** [Decision-Maker's Toolkit path](/learn/decision-makers-toolkit/)
 
-The models are organised by discipline (how they work) and by use case (when to use them). You can also use the search (press **⌘K** or **Ctrl+K**) to find models related to specific situations.
+**Understanding complex systems →** [Systems Thinking path](/learn/systems-thinking/)
 
-## One model per week
+**Spotting logical errors →** [Argument Analyzer tool](/tools/argument-analyzer/)
 
-The most effective way to build your latticework is not to read all 50 models in a weekend. It's to learn one model per week, then deliberately apply it to a real decision during that week. After a year, you'll have a toolkit of 50 models — and more importantly, you'll have 50 experiences of applying them.
+**Browsing all models →** [Full model library](/models/) (filterable by discipline and difficulty)
+
+**Printable references →** [Download free PDF cheat sheets](/downloads/)
