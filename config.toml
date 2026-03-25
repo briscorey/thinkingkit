@@ -25,6 +25,10 @@ enableGitInfo = true
 
 [menu]
   [[menu.main]]
+    name = "Start Here"
+    url = "/start-here/"
+    weight = 0
+  [[menu.main]]
     name = "Models"
     url = "/models/"
     weight = 1
