@@ -1,0 +1,82 @@
+{{ define "main" }}
+<div class="model-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.description }}<p class="one-liner">{{ . }}</p>{{ end }}
+</div>
+<section class="section" style="padding-top:0;">
+  <div class="wrapper">
+    <!-- Filter bar -->
+    <div class="filter-bar" id="filter-bar">
+      <button class="filter-btn active" data-filter="all" onclick="filterModels('all',this)">All</button>
+      <span style="width:1px;height:20px;background:var(--color-border);margin:0 var(--space-xs);"></span>
+      {{ $disciplines := slice }}
+      {{ range .Pages }}
+        {{ with .Params.disciplines }}
+          {{ range . }}
+            {{ $disciplines = $disciplines | append . }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ $disciplines = $disciplines | uniq | sort }}
+      {{ range $disciplines }}
+      <button class="filter-btn" data-filter="disc-{{ . | urlize }}" onclick="filterModels('disc-{{ . | urlize }}',this)">{{ . }}</button>
+      {{ end }}
+      <span style="width:1px;height:20px;background:var(--color-border);margin:0 var(--space-xs);"></span>
+      <button class="filter-btn" data-filter="diff-foundation" onclick="filterModels('diff-foundation',this)">Foundation</button>
+      <button class="filter-btn" data-filter="diff-intermediate" onclick="filterModels('diff-intermediate',this)">Intermediate</button>
+    </div>
+
+    <!-- Count -->
+    <p id="model-count" style="font-size:0.82rem;color:var(--color-ink-muted);margin-bottom:var(--space-lg);"></p>
+
+    <!-- Card grid -->
+    <div class="card-grid" id="model-grid">
+      {{ range .Pages }}
+      <a href="{{ .Permalink }}" class="card animate-in"
+         data-disciplines="{{ with .Params.disciplines }}{{ range . }}disc-{{ . | urlize }} {{ end }}{{ end }}"
+         data-difficulty="diff-{{ with .Params.difficulty }}{{ . | urlize }}{{ end }}">
+        <div class="card-icon">{{ with .Params.icon }}{{ . }}{{ else }}◆{{ end }}</div>
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Params.one_liner }}</p>
+        <div class="card-meta">
+          {{ with .Params.difficulty }}<span class="card-tag">{{ . }}</span>{{ end }}
+          {{ with .Params.disciplines }}{{ range first 2 . }}<span class="card-tag card-tag--teal">{{ . }}</span>{{ end }}{{ end }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<script>
+  function filterModels(filter, btn) {
+    // Update active button
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+
+    const cards = document.querySelectorAll('#model-grid .card');
+    let visible = 0;
+
+    cards.forEach(card => {
+      if (filter === 'all') {
+        card.style.display = '';
+        visible++;
+      } else {
+        const disciplines = card.dataset.disciplines || '';
+        const difficulty = card.dataset.difficulty || '';
+        const match = disciplines.includes(filter) || difficulty === filter;
+        card.style.display = match ? '' : 'none';
+        if (match) visible++;
+      }
+    });
+
+    document.getElementById('model-count').textContent = visible + ' model' + (visible !== 1 ? 's' : '');
+  }
+
+  // Init count
+  document.addEventListener('DOMContentLoaded', () => {
+    const total = document.querySelectorAll('#model-grid .card').length;
+    document.getElementById('model-count').textContent = total + ' models';
+  });
+</script>
+{{ end }}
