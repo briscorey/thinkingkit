@@ -25,10 +25,6 @@ enableGitInfo = true
 
 [menu]
   [[menu.main]]
-    name = "Start Here"
-    url = "/start-here/"
-    weight = 0
-  [[menu.main]]
     name = "Models"
     url = "/models/"
     weight = 1
@@ -41,17 +37,13 @@ enableGitInfo = true
     url = "/learn/"
     weight = 3
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Compare"
+    url = "/compare/"
     weight = 4
   [[menu.main]]
     name = "Downloads"
     url = "/downloads/"
     weight = 5
-  [[menu.main]]
-    name = "Educators"
-    url = "/educators/"
-    weight = 6
 
 [outputs]
   home = ["HTML", "RSS"]
