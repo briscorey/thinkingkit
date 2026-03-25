@@ -1,0 +1,11 @@
+baseURL = "https://thinkingkit.org/"
+languageCode = "en-us"
+title = "ThinkingKit"
+theme = ""
+
+[build]
+  writeStats = false
+
+[params]
+  description = "Better tools for better thinking"
+  author = "Corey Zocchi"
