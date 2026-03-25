@@ -20,4 +20,28 @@ related_models:
   - "map-territory-menu"
 ---
 
-*Full content coming soon. [Explore all models →](/models/)*
+## How it works
+
+Charlie Munger says you should never ask a barber whether you need a haircut. The answer will always be yes — not because the barber is dishonest, but because their livelihood depends on you saying yes. Their incentive structure makes objective advice impossible.
+
+Incentive-caused bias operates unconsciously. The real estate agent genuinely believes now is a great time to buy. The surgeon genuinely believes surgery is the best option. The consultant genuinely believes you need more consulting. Their beliefs are sincere — and systematically distorted by their incentives.
+
+The antidote is structural, not personal: before evaluating advice, evaluate the advisor's incentive structure. Ask what outcome serves their interests, then weight their advice accordingly.
+
+## Real-world examples
+
+**Medical advice.** Surgeons recommend surgery more often than non-surgeons for the same condition. This doesn't mean surgeons are corrupt — it means their training, skills, and income all point toward surgical solutions.
+
+**Financial products.** A financial advisor paid by commission will recommend products with higher commissions. An advisor paid by flat fee has different incentives. Same expertise, different recommendations.
+
+## When to use it
+
+Apply incentive analysis before taking any consequential advice. Ask: "How does this person get paid? What outcome serves their interests? Would their recommendation change if their incentive structure were different?"
+
+## Common mistakes
+
+The mistake is assuming incentive-caused bias means people are lying. Usually they're not — they genuinely believe their biased recommendation. That's what makes this bias so dangerous: it's invisible even to the person who has it.
+
+## Try it now
+
+Think of the last piece of professional advice you received. What was the advisor's incentive structure? Would their recommendation have changed if they were paid differently?

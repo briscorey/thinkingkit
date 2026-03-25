@@ -105,6 +105,42 @@
   </div>
 </section>
 
+<!-- Daily Model -->
+<section class="section">
+  <div class="wrapper">
+    <div style="max-width:640px;margin:0 auto;">
+      <div id="daily-model" class="animate-in" style="background:var(--color-bg-card);border:1px solid var(--color-border-light);border-radius:var(--radius-lg);padding:var(--space-xl);box-shadow:var(--shadow-md);">
+        <span class="label" style="display:block;margin-bottom:var(--space-md);">Model of the day</span>
+        <div id="daily-model-content" style="min-height:80px;">
+          <p style="color:var(--color-ink-muted);font-size:0.88rem;">Loading...</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<script src="/js/models-data.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  if (typeof MODELS_DATA === 'undefined') return;
+  var today = new Date();
+  var seed = today.getFullYear() * 10000 + (today.getMonth()+1) * 100 + today.getDate();
+  var idx = seed % MODELS_DATA.length;
+  var m = MODELS_DATA[idx];
+  var el = document.getElementById('daily-model-content');
+  if (el && m) {
+    el.innerHTML = '<a href="/models/' + m.s + '/" style="text-decoration:none;color:inherit;display:block;">' +
+      '<div style="display:flex;align-items:flex-start;gap:var(--space-lg);">' +
+        '<span style="font-size:1.6rem;min-width:36px;text-align:center;line-height:1.4;">' + m.i + '</span>' +
+        '<div>' +
+          '<h3 style="margin-top:0;margin-bottom:var(--space-xs);font-size:1.15rem;">' + m.t + '</h3>' +
+          '<p style="font-size:0.92rem;color:var(--color-ink-secondary);margin-bottom:var(--space-sm);line-height:1.6;">' + m.o + '</p>' +
+          '<span style="font-size:0.82rem;color:var(--color-accent);font-weight:600;">Read more &rarr;</span>' +
+        '</div>' +
+      '</div></a>';
+  }
+});
+</script>
+
 <!-- Differentiators -->
 <section class="section" class="section--alt">
   <div class="wrapper">

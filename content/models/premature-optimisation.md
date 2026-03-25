@@ -21,4 +21,28 @@ related_models:
   - "bottleneck"
 ---
 
-*Full content coming soon. [Explore all models →](/models/)*
+## How it works
+
+Donald Knuth wrote that "premature optimisation is the root of all evil" in programming — but the principle extends far beyond code. Premature optimisation means perfecting something before you've confirmed it should exist at all.
+
+The pattern: you spend weeks polishing a feature, process, or plan to peak efficiency, only to discover that the whole thing was solving the wrong problem. The optimisation effort is wasted because the foundation was wrong.
+
+The antidote: validate first, optimise later. Build the roughest version that tests your assumption. If the assumption holds, then optimise. If it doesn't, you've saved all the effort you would have wasted polishing something doomed to be discarded.
+
+## Real-world examples
+
+**Product development.** Spending six months building a beautiful, scalable app for an idea nobody has validated is premature optimisation. Build a landing page first. See if anyone signs up.
+
+**Writing.** Agonising over the perfect opening sentence before you've outlined your argument is premature optimisation. Get the structure right first. Polish the prose last.
+
+## When to use it
+
+Apply this whenever you catch yourself perfecting details before validating the big picture. Ask: "Have I confirmed this is the right thing to build/do/write? Or am I optimising something that might not need to exist?"
+
+## Common mistakes
+
+The mistake is using this as an excuse for permanently low quality. The principle is about sequencing — validate then optimise — not about never optimising. Ship rough to learn, then polish what works.
+
+## Try it now
+
+Look at your current projects. Is there anything you're polishing that hasn't been validated yet? What's the simplest test you could run to confirm the foundation is sound before you invest in optimisation?

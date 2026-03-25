@@ -22,4 +22,28 @@ related_models:
   - "margin-of-safety"
 ---
 
-*Full content coming soon. [Explore all models →](/models/)*
+## How it works
+
+Iatrogenics is harm caused by the healer — damage inflicted by an intervention that was supposed to help. The term comes from medicine (iatrogenic illness = illness caused by medical treatment), but the principle extends to any domain where intervention can backfire.
+
+Nassim Taleb argues that iatrogenics is one of the most underappreciated risks in modern life. We overintervene because we have a bias toward action: doing something feels better than doing nothing, even when doing nothing is the better choice.
+
+The key insight: in complex systems, the default state (no intervention) often produces better outcomes than well-intentioned but poorly understood interventions.
+
+## Real-world examples
+
+**Medicine.** Overprescribing antibiotics creates resistant superbugs. The treatment itself generates a worse problem than the original illness.
+
+**Management.** A manager who constantly intervenes in their team's work — "helping" with every decision — prevents the team from developing autonomy and judgment. The management is causing the incompetence it's trying to fix.
+
+## When to use it
+
+Before any intervention, ask: "Could doing nothing produce a better outcome than this action?" This is especially important in complex systems (health, organisations, ecosystems, markets) where the second-order effects of intervention are hard to predict.
+
+## Common mistakes
+
+The main mistake is using iatrogenics as an excuse for inaction when action is clearly needed. If someone is having a heart attack, intervene. The principle applies when the situation is ambiguous, the system is complex, and the intervention is optional.
+
+## Try it now
+
+Think of a problem you're currently trying to solve. Ask: "What happens if I do nothing for two weeks?" If the answer is "things will probably resolve on their own," consider whether your intervention might cause more harm than good.

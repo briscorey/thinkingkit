@@ -20,4 +20,28 @@ related_models:
   - "asymmetric-risk"
 ---
 
-*Full content coming soon. [Explore all models →](/models/)*
+## How it works
+
+Nassim Taleb's "Skin in the Game" principle states that people make better decisions when they bear the consequences of those decisions. When decision-makers are insulated from downside risk, their judgment becomes unreliable — not because they're dishonest, but because their incentives are misaligned.
+
+The principle has four dimensions. First, symmetry: people who get the upside should also bear the downside. Second, filtering: systems where participants have skin in the game naturally eliminate incompetence over time. Third, trust: you can trust someone's advice more when they bear a cost for being wrong. Fourth, ethics: it's morally wrong to transfer risk to others while keeping the reward.
+
+## Real-world examples
+
+**Financial advisors.** Does your financial advisor invest their own money using the same strategy they recommend to you? If not, their skin isn't in the game. Their incentive is to maximise fees, not your returns.
+
+**Politicians.** Leaders who send soldiers to war should face personal consequences for failure. When the costs of bad decisions fall on others, decision quality degrades.
+
+**Startups.** Founders have skin in the game. Consultants advising startups typically don't. This is why founder-led companies often outperform — the decision-makers bear the consequences.
+
+## When to use it
+
+Apply skin in the game thinking whenever evaluating advice, trusting experts, or designing incentive systems. Ask: "Does this person bear a cost if they're wrong?" If not, discount their confidence accordingly.
+
+## Common mistakes
+
+The main mistake is demanding that everyone have maximal skin in the game in all situations. Some roles require insulation to function (judges need independence, for instance). The principle is a lens for evaluating trust and incentives, not an absolute rule.
+
+## Try it now
+
+Think of the last three pieces of advice you received. For each one, ask: "What happens to this person if their advice is wrong?" Does the answer change how much weight you give their opinion?
