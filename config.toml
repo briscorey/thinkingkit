@@ -1,7 +1,6 @@
 baseURL = "https://thinkingkit.org/"
 languageCode = "en-us"
 title = "ThinkingKit"
-theme = ""
 
 [build]
   writeStats = false
