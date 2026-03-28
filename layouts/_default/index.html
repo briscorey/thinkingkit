@@ -178,4 +178,18 @@ document.addEventListener('DOMContentLoaded', function() {
   </div>
 </section>
 
+<!-- Newsletter -->
+<section class="section">
+  <div class="wrapper">
+    <div class="section-header animate-in">
+      <span class="label">Stay sharp</span>
+      <h2>One model per week</h2>
+      <p>A free weekly email with one mental model, one real-world example, and one exercise to practice it.</p>
+    </div>
+    <div class="animate-in">
+      {{ partial "newsletter.html" . }}
+    </div>
+  </div>
+</section>
+
 {{ end }}
