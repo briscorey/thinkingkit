@@ -7,26 +7,104 @@
     <div class="model-meta">
       {{ with .Params.difficulty }}<span class="card-tag">{{ . }}</span>{{ end }}
       {{ with .Params.disciplines }}{{ range . }}<span class="card-tag card-tag--teal">{{ . }}</span>{{ end }}{{ end }}
+      <span class="card-tag" style="background:var(--color-bg);color:var(--color-ink-muted);border:1px solid var(--color-border-light);">{{ math.Round (div (countwords .Content) 200.0) }} min read</span>
     </div>
   </div>
 
   <div class="model-content">
+
+    <!-- At a Glance Card -->
+    <div style="background:var(--color-bg-warm);border:1px solid var(--color-border);border-radius:var(--radius-lg);padding:var(--space-xl);margin-bottom:var(--space-2xl);">
+      <p style="font-size:0.72rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--color-accent);margin-bottom:var(--space-lg);">At a glance</p>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));gap:var(--space-lg);">
+        <div>
+          <p style="font-size:0.72rem;font-weight:700;text-transform:uppercase;letter-spacing:0.1em;color:var(--color-ink-muted);margin-bottom:var(--space-xs);">What it is</p>
+          <p style="font-size:0.88rem;color:var(--color-ink);margin:0;line-height:1.5;">{{ .Params.one_liner }}</p>
+        </div>
+        <div>
+          <p style="font-size:0.72rem;font-weight:700;text-transform:uppercase;letter-spacing:0.1em;color:var(--color-ink-muted);margin-bottom:var(--space-xs);">Use when</p>
+          <p style="font-size:0.88rem;color:var(--color-ink);margin:0;line-height:1.5;">{{ with .Params.usecases }}{{ delimit . ", " }}{{ end }}</p>
+        </div>
+        <div>
+          <p style="font-size:0.72rem;font-weight:700;text-transform:uppercase;letter-spacing:0.1em;color:var(--color-ink-muted);margin-bottom:var(--space-xs);">Discipline</p>
+          <p style="font-size:0.88rem;color:var(--color-ink);margin:0;line-height:1.5;">{{ with .Params.disciplines }}{{ delimit . ", " }}{{ end }}</p>
+        </div>
+      </div>
+      {{ with .Params.tags }}
+      <div style="margin-top:var(--space-lg);padding-top:var(--space-md);border-top:1px solid var(--color-border-light);">
+        <p style="font-size:0.72rem;font-weight:700;text-transform:uppercase;letter-spacing:0.1em;color:var(--color-ink-muted);margin-bottom:var(--space-sm);">Key thinkers & concepts</p>
+        <div style="display:flex;flex-wrap:wrap;gap:var(--space-xs);">
+          {{ range . }}<span style="font-size:0.75rem;padding:0.15rem 0.5rem;border-radius:100px;background:var(--color-bg-card);border:1px solid var(--color-border-light);color:var(--color-ink-muted);">{{ . }}</span>{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+    <!-- Main Content -->
     {{ .Content }}
 
+    <!-- Apply to Your Life -->
+    <div style="background:var(--color-accent-bg);border:1px solid rgba(232,82,63,0.12);border-radius:var(--radius-lg);padding:var(--space-xl);margin:var(--space-2xl) 0;">
+      <p style="font-size:0.72rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--color-accent);margin-bottom:var(--space-lg);">Apply to your life</p>
+      <p style="font-size:0.92rem;color:var(--color-ink-secondary);margin-bottom:var(--space-lg);">Pick one domain and apply <strong>{{ .Title }}</strong> right now:</p>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(180px, 1fr));gap:var(--space-md);">
+        <div style="background:var(--color-bg-card);border-radius:var(--radius-md);padding:var(--space-md);">
+          <p style="font-size:0.78rem;font-weight:700;color:var(--color-teal);margin-bottom:var(--space-xs);">Career</p>
+          <p style="font-size:0.82rem;color:var(--color-ink-muted);margin:0;">How does this apply to a decision or challenge at work?</p>
+        </div>
+        <div style="background:var(--color-bg-card);border-radius:var(--radius-md);padding:var(--space-md);">
+          <p style="font-size:0.78rem;font-weight:700;color:var(--color-teal);margin-bottom:var(--space-xs);">Money</p>
+          <p style="font-size:0.82rem;color:var(--color-ink-muted);margin:0;">Where does this pattern show up in your financial decisions?</p>
+        </div>
+        <div style="background:var(--color-bg-card);border-radius:var(--radius-md);padding:var(--space-md);">
+          <p style="font-size:0.78rem;font-weight:700;color:var(--color-teal);margin-bottom:var(--space-xs);">Relationships</p>
+          <p style="font-size:0.82rem;color:var(--color-ink-muted);margin:0;">Can you see this model operating in your personal relationships?</p>
+        </div>
+        <div style="background:var(--color-bg-card);border-radius:var(--radius-md);padding:var(--space-md);">
+          <p style="font-size:0.78rem;font-weight:700;color:var(--color-teal);margin-bottom:var(--space-xs);">Learning</p>
+          <p style="font-size:0.82rem;color:var(--color-ink-muted);margin:0;">How could this model change how you approach learning something new?</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Related Models -->
     {{ with .Params.related_models }}
     <h2>Related models</h2>
+    <p style="font-size:0.88rem;color:var(--color-ink-muted);margin-bottom:var(--space-lg);">These models complement <strong>{{ $.Title }}</strong> — they address similar situations from different angles.</p>
     <div class="related-models">
       {{ range . }}
         {{ $model := $.Site.GetPage (printf "/models/%s" .) }}
         {{ if $model }}
-        <a href="{{ $model.Permalink }}" class="card">
-          <h3>{{ $model.Title }}</h3>
-          <p>{{ $model.Params.one_liner }}</p>
+        <a href="{{ $model.Permalink }}" class="card" style="padding:var(--space-lg);">
+          <div class="card-icon" style="width:32px;height:32px;font-size:0.9rem;margin-bottom:var(--space-sm);">{{ with $model.Params.icon }}{{ . }}{{ else }}◆{{ end }}</div>
+          <h3 style="font-size:0.95rem;">{{ $model.Title }}</h3>
+          <p style="font-size:0.78rem;">{{ $model.Params.one_liner }}</p>
         </a>
         {{ end }}
       {{ end }}
     </div>
     {{ end }}
+
+    <!-- Tools CTA -->
+    <div style="background:var(--color-bg-warm);border-radius:var(--radius-lg);padding:var(--space-xl);margin-top:var(--space-2xl);text-align:center;">
+      <p style="font-family:var(--font-display);font-size:1.1rem;color:var(--color-ink);margin-bottom:var(--space-md);">Put this model into practice</p>
+      <div style="display:flex;gap:var(--space-sm);justify-content:center;flex-wrap:wrap;">
+        <a href="/tools/toolkit-matcher/" class="btn btn-secondary" style="font-size:0.82rem;">Find related models</a>
+        <a href="/tools/thinking-journal/" class="btn btn-secondary" style="font-size:0.82rem;">Log in your journal</a>
+        <a href="/tools/ai-matcher/" class="btn btn-primary" style="font-size:0.82rem;">Ask the AI advisor</a>
+      </div>
+    </div>
+
+    <!-- Prev/Next Navigation -->
+    <div style="display:flex;justify-content:space-between;margin-top:var(--space-2xl);padding-top:var(--space-lg);border-top:1px solid var(--color-border-light);">
+      {{ with .PrevInSection }}
+      <a href="{{ .Permalink }}" style="font-size:0.85rem;color:var(--color-ink-muted);">← {{ .Title }}</a>
+      {{ else }}<span></span>{{ end }}
+      {{ with .NextInSection }}
+      <a href="{{ .Permalink }}" style="font-size:0.85rem;color:var(--color-ink-muted);">{{ .Title }} →</a>
+      {{ else }}<span></span>{{ end }}
+    </div>
+
   </div>
 </article>
 {{ end }}
