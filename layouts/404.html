@@ -1,0 +1,47 @@
+{{ define "main" }}
+<div class="model-header" style="min-height:60vh;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+  <p style="font-family:var(--font-display);font-size:4rem;color:var(--color-accent);opacity:0.3;margin-bottom:var(--space-md);">404</p>
+  <h1 style="font-size:1.8rem;margin-bottom:var(--space-md);">This page doesn't exist yet</h1>
+  <p class="one-liner" style="max-width:480px;">But you're clearly looking for something. Here are the best ways to find it:</p>
+  
+  <div style="display:flex;flex-direction:column;gap:var(--space-md);margin-top:var(--space-xl);max-width:400px;width:100%;">
+    <a href="/models/" class="btn btn-primary" style="justify-content:center;">Browse all 150 models</a>
+    <a href="/tools/toolkit-matcher/" class="btn btn-secondary" style="justify-content:center;">Describe what you need → get matched</a>
+    <a href="/learn/foundations/" class="btn btn-secondary" style="justify-content:center;">Start with the foundations</a>
+  </div>
+
+  <div style="margin-top:var(--space-2xl);max-width:500px;">
+    <p style="font-size:0.82rem;color:var(--color-ink-muted);margin-bottom:var(--space-md);text-align:center;">Or search for it:</p>
+    <div style="text-align:center;">
+      <button onclick="toggleSearch()" class="btn btn-secondary" style="font-size:0.85rem;">Open search (Cmd+K)</button>
+    </div>
+  </div>
+
+  <!-- Random model suggestion -->
+  <div style="margin-top:var(--space-2xl);padding:var(--space-xl);background:var(--color-bg-card);border:1px solid var(--color-border-light);border-radius:var(--radius-lg);box-shadow:var(--shadow-sm);max-width:500px;width:100%;">
+    <p style="font-size:0.72rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--color-accent);margin-bottom:var(--space-md);">While you're here — a random model</p>
+    <div id="random-model-404">
+      <p style="color:var(--color-ink-muted);font-size:0.85rem;">Loading...</p>
+    </div>
+  </div>
+</div>
+
+<script src="/js/models-data.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  if (typeof MODELS_DATA === 'undefined') return;
+  var m = MODELS_DATA[Math.floor(Math.random() * MODELS_DATA.length)];
+  var el = document.getElementById('random-model-404');
+  if (el && m) {
+    el.innerHTML = '<a href="/models/' + m.s + '/" style="text-decoration:none;color:inherit;display:block;">' +
+      '<div style="display:flex;align-items:flex-start;gap:var(--space-md);">' +
+        '<span style="font-size:1.4rem;">' + m.i + '</span>' +
+        '<div>' +
+          '<h3 style="margin-top:0;margin-bottom:var(--space-xs);font-size:1rem;">' + m.t + '</h3>' +
+          '<p style="font-size:0.85rem;color:var(--color-ink-muted);margin:0;">' + m.o + '</p>' +
+        '</div>' +
+      '</div></a>';
+  }
+});
+</script>
+{{ end }}

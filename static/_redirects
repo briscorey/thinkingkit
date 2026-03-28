@@ -1,0 +1,12 @@
+# Redirect common URL patterns to correct pages
+/mental-models/* /models/:splat 301
+/mental-models /models/ 301
+/model/* /models/:splat 301
+/tool/* /tools/:splat 301
+/learning/* /learn/:splat 301
+/resources /downloads/ 301
+/educators/resources /downloads/ 301
+/about-us /about/ 301
+/start /start-here/ 301
+/getting-started /start-here/ 301
+/compare/comparisons /compare/ 301

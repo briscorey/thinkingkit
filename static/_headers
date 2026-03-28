@@ -1,0 +1,33 @@
+# Security headers — every response
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# HTML pages — short cache, always revalidate
+/*.html
+  Cache-Control: public, max-age=3600, must-revalidate
+
+# CSS — cache aggressively (we can bust with query strings)
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# JS — cache aggressively
+/js/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Fonts served from Google — no headers needed
+
+# PDFs — cache for a week
+/downloads/*
+  Cache-Control: public, max-age=604800
+
+# Pagefind index — cache moderately (rebuilds on deploy)
+/pagefind/*
+  Cache-Control: public, max-age=86400
+
+# Images — cache aggressively
+/images/*
+  Cache-Control: public, max-age=31536000, immutable

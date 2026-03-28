@@ -1,3 +1,21 @@
+{{ define "head" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LearningResource",
+  "name": "{{ .Title }}",
+  "description": "{{ .Params.one_liner }}",
+  "url": "{{ .Permalink }}",
+  "author": {"@type": "Person", "name": "Corey Zocchi"},
+  "publisher": {"@type": "Organization", "name": "ThinkingKit"},
+  "educationalLevel": "{{ .Params.difficulty }}",
+  "learningResourceType": "Mental Model",
+  "inLanguage": "en",
+  "isAccessibleForFree": true
+}
+</script>
+{{ end }}
+
 {{ define "main" }}
 <article data-pagefind-body>
   <div class="model-header">

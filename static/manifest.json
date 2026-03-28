@@ -1,0 +1,21 @@
+{
+  "name": "ThinkingKit",
+  "short_name": "ThinkingKit",
+  "description": "Better tools for better thinking. 150 mental models with interactive tools.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#FAF8F5",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

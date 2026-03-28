@@ -22,6 +22,14 @@
   }
   </script>
   <link rel="canonical" href="{{ .Permalink }}">
+  <!-- Preconnect to font sources -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://api.fontshare.com">
+  <!-- Theme color for mobile browsers -->
+  <meta name="theme-color" content="#FAF8F5">
+  <!-- PWA manifest -->
+  <link rel="manifest" href="/manifest.json">
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
   {{ block "head" . }}{{ end }}
@@ -109,6 +117,14 @@
       if (e.key === 'Escape') { document.getElementById('search-overlay').style.display = 'none'; }
     });
   </script>
+  <!-- Service Worker: offline access (antifragile — site gets stronger with each visit) -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js').catch(() => {});
+    }
+  </script>
+  <!-- Cloudflare Web Analytics (learn from traffic — feedback loop) -->
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": ""}'></script>
   {{ block "scripts" . }}{{ end }}
 </body>
 </html>
