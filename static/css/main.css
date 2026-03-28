@@ -5,7 +5,7 @@
    ============================================ */
 
 /* --- Fonts --- */
-@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Satoshi:ital,wght@0,400;0,500;0,700;0,900;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
 /* Satoshi from Fontshare fallback — use Google Fonts alternative */
 @import url('https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700,900&display=swap');
@@ -129,12 +129,6 @@ code, pre {
 /* --- Layout --- */
 .wrapper {
   max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 0 var(--space-lg);
-}
-
-.content-wrapper {
-  max-width: var(--max-width-content);
   margin: 0 auto;
   padding: 0 var(--space-lg);
 }
@@ -580,14 +574,6 @@ code, pre {
 }
 
 /* --- Tool pages --- */
-.tool-embed {
-  background: var(--color-bg-card);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-lg);
-  padding: var(--space-xl);
-  margin: var(--space-xl) 0;
-  box-shadow: var(--shadow-md);
-}
 
 /* --- Filter bar --- */
 .filter-bar {
@@ -643,9 +629,6 @@ code, pre {
 /* --- Utility --- */
 .text-center { text-align: center; }
 .mt-xl { margin-top: var(--space-xl); }
-.mt-2xl { margin-top: var(--space-2xl); }
-.mb-xl { margin-bottom: var(--space-xl); }
-.mb-2xl { margin-bottom: var(--space-2xl); }
 
 /* --- Animations --- */
 @media (prefers-reduced-motion: no-preference) {
