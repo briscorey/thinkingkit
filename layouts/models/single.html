@@ -7,11 +7,42 @@
   "description": "{{ .Params.one_liner }}",
   "url": "{{ .Permalink }}",
   "author": {"@type": "Person", "name": "Corey Zocchi"},
-  "publisher": {"@type": "Organization", "name": "ThinkingKit"},
+  "publisher": {"@type": "Organization", "name": "ThinkingKit", "url": "https://thinkingkit.org"},
   "educationalLevel": "{{ .Params.difficulty }}",
   "learningResourceType": "Mental Model",
   "inLanguage": "en",
-  "isAccessibleForFree": true
+  "isAccessibleForFree": true,
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "wordCount": {{ countwords .Content }}
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://thinkingkit.org/"},
+    {"@type": "ListItem", "position": 2, "name": "Models", "item": "https://thinkingkit.org/models/"},
+    {"@type": "ListItem", "position": 3, "name": "{{ .Title }}", "item": "{{ .Permalink }}"}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is {{ .Title }}?",
+      "acceptedAnswer": {"@type": "Answer", "text": "{{ .Params.one_liner }}"}
+    },
+    {
+      "@type": "Question",
+      "name": "When should you use {{ .Title }}?",
+      "acceptedAnswer": {"@type": "Answer", "text": "{{ .Title }} is most useful for {{ with .Params.usecases }}{{ delimit . ", " }}{{ end }}."}
+    }
+  ]
 }
 </script>
 {{ end }}

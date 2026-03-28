@@ -30,6 +30,8 @@
   <meta name="theme-color" content="#FAF8F5">
   <!-- PWA manifest -->
   <link rel="manifest" href="/manifest.json">
+  <!-- RSS autodiscovery -->
+  <link rel="alternate" type="application/rss+xml" title="ThinkingKit" href="/index.xml">
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
   {{ block "head" . }}{{ end }}
@@ -67,7 +69,19 @@
   {{ block "main" . }}{{ end }}
   <footer class="site-footer">
     <div class="wrapper">
-      <p>&copy; {{ now.Year }} ThinkingKit. Free and open. Built by <a href="https://learnlattice.com">Corey Zocchi</a>.</p>
+      <div style="display:flex;justify-content:center;gap:var(--space-xl);flex-wrap:wrap;margin-bottom:var(--space-lg);">
+        <a href="/models/" style="font-size:0.78rem;">150 Models</a>
+        <a href="/tools/" style="font-size:0.78rem;">10 Tools</a>
+        <a href="/learn/" style="font-size:0.78rem;">Learning Paths</a>
+        <a href="/compare/" style="font-size:0.78rem;">Compare</a>
+        <a href="/guides/" style="font-size:0.78rem;">Guides</a>
+        <a href="/downloads/" style="font-size:0.78rem;">Downloads</a>
+        <a href="/educators/" style="font-size:0.78rem;">Educators</a>
+        <a href="/start-here/" style="font-size:0.78rem;">Start Here</a>
+        <a href="/sitemap.xml" style="font-size:0.78rem;">Sitemap</a>
+        <a href="/index.xml" style="font-size:0.78rem;">RSS</a>
+      </div>
+      <p>&copy; {{ now.Year }} ThinkingKit. Free and open. Built by <a href="https://learnlattice.org">Corey Zocchi</a>.</p>
     </div>
   </footer>
   <script>
